@@ -6,6 +6,9 @@ This dataset currently holds <b>60,828</b> Early Day Motions from <u>21/11/1989<
 
 EDM 240 can be found at: <a href="https://edm.parliament.uk/early-day-motion/65938">https://edm.parliament.uk/early-day-motion/65938</a>.<br/>
 
+This file is formatted with HTML, and is intentionally simple styling wise.<br/>
+This is done so that anyone can copy the statistics as plaintext, as is rendered in the GitHub UI, or as raw HTML for use where HTML is accepted.<br/>
+
 More information can be found at <a href="https://github.com/k8ey/edm240">https://github.com/k8ey/edm240</a>.<br/>
 
 <h2>EDM 240 Statistics</h2>
