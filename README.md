@@ -1,6 +1,6 @@
 # EDM 240 Statistics
 
-A collection of statistics, data, and graphs about EDM 240 (tabled <u>01/06/2026</u>).
+A collection of statistics, data, and graphs about EDM 240 (tabled 01/06/2026).
 
 ## Statistics 
 
