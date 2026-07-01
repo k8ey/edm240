@@ -1,0 +1,1452 @@
+[{
+  "supporting": {
+    "total": 159,
+    "backbench": {
+      "total": 121
+    },
+    "frontbench": {
+      "total": 38
+    },
+    "women": {
+      "total": 77
+    },
+    "men": {
+      "total": 82
+    },
+    "by_party": {
+      "Labour": 87,
+      "Liberal Democrat": 53,
+      "Scottish National Party": 7,
+      "Plaid Cymru": 4,
+      "Green Party": 3,
+      "Independent": 2,
+      "Your Party": 2,
+      "Social Democratic & Labour Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2026-05-28": 1,
+        "2026-06-01": 26,
+        "2026-06-02": 23,
+        "2026-06-03": 25,
+        "2026-06-04": 13,
+        "2026-06-05": 4,
+        "2026-06-08": 10,
+        "2026-06-09": 9,
+        "2026-06-10": 16,
+        "2026-06-11": 4,
+        "2026-06-12": 1,
+        "2026-06-15": 5,
+        "2026-06-16": 2,
+        "2026-06-17": 3,
+        "2026-06-18": 4,
+        "2026-06-22": 2,
+        "2026-06-23": 2,
+        "2026-06-24": 5,
+        "2026-06-25": 1,
+        "2026-06-29": 2,
+        "2026-06-30": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1983": 1,
+        "1987": 1,
+        "1996": 1,
+        "1997": 2,
+        "2001": 2,
+        "2005": 4,
+        "2010": 4,
+        "2015": 11,
+        "2016": 1,
+        "2017": 7,
+        "2019": 18,
+        "2021": 2,
+        "2023": 2,
+        "2024": 101,
+        "2026": 2
+      },
+      "latest": {
+        "1983": 1,
+        "1987": 1,
+        "1996": 1,
+        "1997": 2,
+        "2001": 2,
+        "2005": 3,
+        "2010": 3,
+        "2015": 12,
+        "2016": 1,
+        "2017": 7,
+        "2019": 18,
+        "2021": 2,
+        "2023": 2,
+        "2024": 102,
+        "2026": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 2,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 1
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 2
+    },
+    "by_party": {
+      "Liberal Democrat": 2
+    },
+    "by_date": {
+      "creation": {
+        "2026-06-02": 2
+      },
+      "withdrawal": {
+        "2026-06-02": 2
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1997": 1,
+        "2005": 1
+      },
+      "latest": {
+        "2005": 1,
+        "2024": 1
+      }
+    }
+  },
+  "id": 65938,
+  "title": "Draft Code of Practice on Services, public functions and associations",
+  "text": "That the draft Code of Practice for Services, public functions and associations, a copy of which was laid before this House on 21 May, be disapproved.",
+  "date_tabled": "01-06-2026",
+  "ranking": 1
+},
+{
+  "supporting": {
+    "total": 151,
+    "backbench": {
+      "total": 91
+    },
+    "frontbench": {
+      "total": 60
+    },
+    "women": {
+      "total": 58
+    },
+    "men": {
+      "total": 93
+    },
+    "by_party": {
+      "Labour": 54,
+      "Scottish National Party": 43,
+      "Conservative": 14,
+      "Liberal Democrat": 12,
+      "Independent": 11,
+      "Democratic Unionist Party": 6,
+      "Plaid Cymru": 3,
+      "Alba Party": 2,
+      "Social Democratic & Labour Party": 2,
+      "Your Party": 2,
+      "Alliance": 1,
+      "Reform UK": 1
+    },
+    "by_date": {
+      "creation": {
+        "2021-05-12": 3,
+        "2021-05-13": 2,
+        "2021-05-14": 3,
+        "2021-05-17": 1,
+        "2021-05-19": 1,
+        "2021-05-20": 2,
+        "2021-05-24": 1,
+        "2021-05-25": 1,
+        "2021-06-07": 2,
+        "2021-07-12": 2,
+        "2021-07-13": 10,
+        "2021-07-14": 1,
+        "2021-07-15": 4,
+        "2021-07-16": 3,
+        "2021-07-19": 9,
+        "2021-07-20": 2,
+        "2021-07-22": 7,
+        "2021-08-24": 1,
+        "2021-09-06": 7,
+        "2021-09-07": 2,
+        "2021-09-08": 2,
+        "2021-09-10": 1,
+        "2021-09-13": 1,
+        "2021-09-15": 2,
+        "2021-09-16": 1,
+        "2021-09-17": 2,
+        "2021-09-20": 2,
+        "2021-09-22": 2,
+        "2021-09-23": 1,
+        "2021-10-18": 5,
+        "2021-10-19": 1,
+        "2021-10-20": 5,
+        "2021-10-21": 2,
+        "2021-10-22": 3,
+        "2021-10-25": 2,
+        "2021-10-26": 2,
+        "2021-10-27": 2,
+        "2021-11-01": 1,
+        "2021-11-15": 3,
+        "2021-11-16": 2,
+        "2021-11-17": 1,
+        "2021-11-22": 1,
+        "2021-11-24": 1,
+        "2021-12-01": 2,
+        "2021-12-03": 1,
+        "2021-12-09": 1,
+        "2021-12-13": 1,
+        "2021-12-15": 1,
+        "2021-12-16": 2,
+        "2022-01-05": 3,
+        "2022-01-10": 1,
+        "2022-01-11": 1,
+        "2022-01-12": 1,
+        "2022-01-14": 3,
+        "2022-01-19": 1,
+        "2022-01-24": 1,
+        "2022-01-27": 1,
+        "2022-01-31": 2,
+        "2022-02-03": 1,
+        "2022-02-08": 1,
+        "2022-02-22": 1,
+        "2022-02-23": 1,
+        "2022-02-28": 1,
+        "2022-03-01": 1,
+        "2022-03-03": 1,
+        "2022-03-07": 2,
+        "2022-03-15": 1,
+        "2022-03-16": 1,
+        "2022-03-17": 1,
+        "2022-04-19": 3,
+        "2022-04-20": 3,
+        "2022-04-21": 1,
+        "2022-04-26": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1975": 1,
+        "1979": 1,
+        "1983": 4,
+        "1986": 1,
+        "1987": 1,
+        "1992": 2,
+        "1994": 2,
+        "1996": 1,
+        "1997": 10,
+        "1999": 1,
+        "2000": 1,
+        "2001": 7,
+        "2005": 7,
+        "2007": 1,
+        "2008": 1,
+        "2010": 16,
+        "2011": 1,
+        "2012": 1,
+        "2015": 46,
+        "2016": 1,
+        "2017": 13,
+        "2019": 30,
+        "2021": 2
+      },
+      "latest": {
+        "1975": 1,
+        "1979": 1,
+        "1983": 2,
+        "1986": 1,
+        "1987": 1,
+        "1992": 2,
+        "1994": 1,
+        "1996": 1,
+        "1997": 7,
+        "1999": 1,
+        "2000": 1,
+        "2001": 7,
+        "2005": 6,
+        "2007": 1,
+        "2010": 16,
+        "2011": 1,
+        "2012": 1,
+        "2015": 42,
+        "2017": 15,
+        "2019": 37,
+        "2021": 2,
+        "2024": 3,
+        "2025": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 58457,
+  "title": "Giving every child the best start in life",
+  "text": "That this House notes the work of WAVE Trust and its 70/30 campaign to reduce levels of child abuse, neglect and domestic abuse by 70 per cent by 2030; further notes that over two-thirds of this House have endorsed that campaign, including a majority from all parties; recognises the role that Adverse Childhood Experiences play in the entrenchment of intergenerational health and income inequalities and the loss of over £20 billion per year to the UK economy; welcomes the publication of the Early Years Review; and calls on the Government to adopt a comprehensive early years’ strategy to prevent harm to children before it happens, ensuring that all parents are supported to give children the best possible start in life.",
+  "date_tabled": "12-05-2021",
+  "ranking": 2
+},
+{
+  "supporting": {
+    "total": 139,
+    "backbench": {
+      "total": 66
+    },
+    "frontbench": {
+      "total": 73
+    },
+    "women": {
+      "total": 75
+    },
+    "men": {
+      "total": 64
+    },
+    "by_party": {
+      "Labour": 111,
+      "Scottish National Party": 15,
+      "Independent": 6,
+      "Plaid Cymru": 3,
+      "Your Party": 2,
+      "Alba Party": 1,
+      "Democratic Unionist Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2021-01-14": 19,
+        "2021-01-15": 7,
+        "2021-01-18": 105,
+        "2021-01-19": 2,
+        "2021-01-20": 2,
+        "2021-01-26": 1,
+        "2021-01-27": 2,
+        "2021-02-08": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1974": 1,
+        "1979": 1,
+        "1983": 2,
+        "1987": 1,
+        "1992": 1,
+        "1996": 1,
+        "1997": 8,
+        "2000": 2,
+        "2001": 3,
+        "2005": 7,
+        "2007": 1,
+        "2010": 16,
+        "2011": 3,
+        "2012": 3,
+        "2013": 1,
+        "2014": 1,
+        "2015": 38,
+        "2016": 3,
+        "2017": 19,
+        "2019": 27
+      },
+      "latest": {
+        "1979": 1,
+        "1983": 1,
+        "1987": 1,
+        "1992": 1,
+        "1996": 1,
+        "1997": 8,
+        "2000": 2,
+        "2001": 3,
+        "2005": 4,
+        "2007": 1,
+        "2010": 16,
+        "2011": 3,
+        "2012": 3,
+        "2013": 1,
+        "2014": 1,
+        "2015": 37,
+        "2016": 3,
+        "2017": 20,
+        "2019": 29,
+        "2024": 2,
+        "2025": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 57966,
+  "title": "Godfrey Colin Cameron",
+  "text": "That this House is deeply saddened by news of the death of Godfrey Colin Cameron, a hardworking member of Parliamentary security staff and member of the PCS trade union who passed away aged just 55 after contracting covid-19; extends our sincere condolences to his devoted wife Hyacinth, children Leon and Renee, his sisters Arlene and Cynthia, his brother, Carlton, and fellow members of the PCS; notes that Godfrey was a private man who showed selfless care for the others, hoped to retire to his late parents' homeland of Jamaica and was a fanatical fan of Liverpool FC;  sends our deepest sympathies to all those who knew and worked with Godfrey, and our heartfelt thanks for the contribution of all those workers who have continued to serve the public during this public health crisis, and calls on the House authorities to work with trade union representatives to undertake an updated risk assessment in relation to health and safety on the Parliamentary estate, and take all appropriate measures to help keep staff safe.",
+  "date_tabled": "14-01-2021",
+  "ranking": 3
+},
+{
+  "supporting": {
+    "total": 138,
+    "backbench": {
+      "total": 69
+    },
+    "frontbench": {
+      "total": 69
+    },
+    "women": {
+      "total": 65
+    },
+    "men": {
+      "total": 73
+    },
+    "by_party": {
+      "Labour": 92,
+      "Scottish National Party": 15,
+      "Liberal Democrat": 10,
+      "Independent": 6,
+      "Conservative": 5,
+      "Democratic Unionist Party": 4,
+      "Plaid Cymru": 3,
+      "Green Party": 1,
+      "Social Democratic & Labour Party": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2021-09-23": 1,
+        "2021-10-18": 44,
+        "2021-10-20": 5,
+        "2021-10-21": 18,
+        "2021-10-22": 3,
+        "2021-10-23": 3,
+        "2021-10-24": 1,
+        "2021-10-25": 27,
+        "2021-10-26": 4,
+        "2021-10-27": 3,
+        "2021-10-28": 3,
+        "2021-10-29": 1,
+        "2021-11-01": 4,
+        "2021-11-02": 1,
+        "2021-11-03": 5,
+        "2021-11-04": 2,
+        "2021-11-08": 3,
+        "2021-11-15": 2,
+        "2021-11-16": 1,
+        "2021-12-02": 1,
+        "2021-12-03": 1,
+        "2021-12-15": 1,
+        "2022-01-05": 1,
+        "2022-01-31": 1,
+        "2022-02-21": 2
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1975": 1,
+        "1979": 1,
+        "1983": 1,
+        "1986": 1,
+        "1987": 1,
+        "1992": 1,
+        "1994": 2,
+        "1996": 1,
+        "1997": 8,
+        "1999": 1,
+        "2000": 1,
+        "2001": 4,
+        "2005": 7,
+        "2007": 1,
+        "2010": 17,
+        "2011": 2,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 35,
+        "2016": 3,
+        "2017": 18,
+        "2019": 29
+      },
+      "latest": {
+        "1975": 1,
+        "1979": 1,
+        "1986": 1,
+        "1987": 1,
+        "1992": 1,
+        "1994": 1,
+        "1996": 1,
+        "1997": 5,
+        "1999": 1,
+        "2000": 1,
+        "2001": 3,
+        "2005": 5,
+        "2007": 1,
+        "2010": 17,
+        "2011": 2,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 34,
+        "2016": 2,
+        "2017": 20,
+        "2019": 32,
+        "2024": 2,
+        "2025": 3
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 58957,
+  "title": "Campaign to secure the future of the Covid Memorial Wall",
+  "text": "That this House welcomes the creation of the Covid Memorial Wall on Albert Embankment by Covid-19 Bereaved Families for Justice; notes that this memorial now includes over 150,000 hand-painted hearts to symbolise all those who lost their lives during the coronavirus pandemic; praises the work of Covid-19 Bereaved Families for Justice for supporting bereaved families during this time and extends it sympathies to all those grieving the loss of a loved one; thanks all the volunteers who have been working to restore the Covid Memorial Wall which has now begun to fade due to weather exposure; supports the calls for the Covid Memorial Wall to remain a permanent site of remembrance for all those died as a result of Covid-19; and hopes the Government will facilitate the continuation of the memorial site and secure its future.",
+  "date_tabled": "23-09-2021",
+  "ranking": 4
+},
+{
+  "supporting": {
+    "total": 137,
+    "backbench": {
+      "total": 79
+    },
+    "frontbench": {
+      "total": 58
+    },
+    "women": {
+      "total": 57
+    },
+    "men": {
+      "total": 80
+    },
+    "by_party": {
+      "Labour": 57,
+      "Scottish National Party": 37,
+      "Liberal Democrat": 12,
+      "Independent": 9,
+      "Democratic Unionist Party": 6,
+      "Conservative": 5,
+      "Plaid Cymru": 3,
+      "Alba Party": 2,
+      "Social Democratic & Labour Party": 2,
+      "Your Party": 2,
+      "Alliance": 1,
+      "Green Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2022-01-06": 2,
+        "2022-01-07": 1,
+        "2022-01-10": 41,
+        "2022-01-11": 10,
+        "2022-01-12": 1,
+        "2022-01-13": 3,
+        "2022-01-14": 2,
+        "2022-01-17": 7,
+        "2022-01-18": 8,
+        "2022-01-19": 2,
+        "2022-01-20": 5,
+        "2022-01-21": 3,
+        "2022-01-24": 8,
+        "2022-01-25": 5,
+        "2022-01-26": 1,
+        "2022-01-27": 1,
+        "2022-01-28": 4,
+        "2022-01-31": 5,
+        "2022-02-07": 4,
+        "2022-02-08": 1,
+        "2022-02-09": 2,
+        "2022-02-21": 3,
+        "2022-02-22": 2,
+        "2022-03-01": 1,
+        "2022-03-02": 1,
+        "2022-03-03": 1,
+        "2022-03-04": 2,
+        "2022-03-07": 4,
+        "2022-03-08": 1,
+        "2022-03-21": 3,
+        "2022-03-22": 2,
+        "2022-04-20": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1975": 1,
+        "1979": 1,
+        "1982": 1,
+        "1983": 3,
+        "1986": 1,
+        "1987": 2,
+        "1992": 1,
+        "1994": 1,
+        "1996": 1,
+        "1997": 7,
+        "1999": 1,
+        "2000": 1,
+        "2001": 8,
+        "2005": 5,
+        "2007": 1,
+        "2010": 16,
+        "2011": 1,
+        "2012": 1,
+        "2013": 1,
+        "2015": 43,
+        "2016": 1,
+        "2017": 12,
+        "2019": 24,
+        "2021": 3
+      },
+      "latest": {
+        "1975": 1,
+        "1979": 1,
+        "1983": 1,
+        "1986": 1,
+        "1987": 1,
+        "1992": 1,
+        "1994": 1,
+        "1996": 1,
+        "1997": 6,
+        "1999": 1,
+        "2000": 1,
+        "2001": 8,
+        "2005": 5,
+        "2007": 1,
+        "2008": 1,
+        "2010": 16,
+        "2011": 1,
+        "2012": 1,
+        "2013": 1,
+        "2015": 38,
+        "2017": 13,
+        "2019": 30,
+        "2021": 3,
+        "2024": 2,
+        "2025": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 59315,
+  "title": "Post Office Horizon compensation scheme",
+  "text": "That this House believes that the 555 litigants, who won civil proceedings against Post Office Ltd in 2018-19, should not be excluded from the Post Office Horizon compensation scheme; that the exclusion of these litigants from the compensation scheme is having and will continue to have a direct and devastating impact on these individuals and their families, especially as they exposed the scandal against all odds and have been left with the legal bill for doing so; resolves that all those affected by this scandal, including the 555 litigants, must receive compensation that is commensurate with the suffering they have faced; and strongly urges the Government to put in place an external compensation scheme that is outside the scope of the Post Office and provide this group with the redress they not only deserve but are entitled to.",
+  "date_tabled": "06-01-2022",
+  "ranking": 5
+},
+{
+  "supporting": {
+    "total": 125,
+    "backbench": {
+      "total": 68
+    },
+    "frontbench": {
+      "total": 57
+    },
+    "women": {
+      "total": 61
+    },
+    "men": {
+      "total": 64
+    },
+    "by_party": {
+      "Labour": 90,
+      "Scottish National Party": 12,
+      "Liberal Democrat": 7,
+      "Independent": 4,
+      "Democratic Unionist Party": 3,
+      "Plaid Cymru": 3,
+      "Alba Party": 2,
+      "Your Party": 2,
+      "Green Party": 1,
+      "Social Democratic & Labour Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2022-03-23": 1,
+        "2022-03-24": 71,
+        "2022-03-28": 32,
+        "2022-03-29": 12,
+        "2022-03-30": 1,
+        "2022-03-31": 2,
+        "2022-04-19": 5,
+        "2022-04-27": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1979": 1,
+        "1982": 1,
+        "1983": 2,
+        "1986": 1,
+        "1992": 2,
+        "1994": 1,
+        "1996": 1,
+        "1997": 7,
+        "1999": 1,
+        "2000": 1,
+        "2001": 6,
+        "2005": 6,
+        "2007": 1,
+        "2010": 18,
+        "2011": 2,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 29,
+        "2016": 2,
+        "2017": 19,
+        "2019": 20,
+        "2021": 1
+      },
+      "latest": {
+        "1979": 1,
+        "1983": 1,
+        "1986": 1,
+        "1992": 2,
+        "1994": 1,
+        "1996": 1,
+        "1997": 7,
+        "1999": 1,
+        "2000": 1,
+        "2001": 5,
+        "2005": 5,
+        "2007": 1,
+        "2010": 18,
+        "2011": 2,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 27,
+        "2016": 2,
+        "2017": 20,
+        "2019": 22,
+        "2021": 1,
+        "2024": 2,
+        "2025": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 59623,
+  "title": "P&O Ferries and DP World",
+  "text": "That this House condemns in the strongest possible terms the decision of P&O Ferries to fire 800 staff without notice or consultation with their trade unions, the RMT and Nautilus; demands the immediate reinstatement of the sacked workers; condemns their replacement with agency workers earning as little as £1.80 per hour; condemns P&O’s use of hired private security guards to remove seafarers from their place of work; notes that DP World, the owner of P&O Ferries, received millions of pounds of taxpayers’ money during the coronavirus pandemic; calls on the Government to suspend the contracts and licences of DP World and remove them from the Government’s Transport Advisory Group; and further calls on the Government to bring forward a Bill urgently to outlaw fire and rehire and strengthen workers’ rights.",
+  "date_tabled": "23-03-2022",
+  "ranking": 6
+},
+{
+  "supporting": {
+    "total": 123,
+    "backbench": {
+      "total": 92
+    },
+    "frontbench": {
+      "total": 31
+    },
+    "women": {
+      "total": 58
+    },
+    "men": {
+      "total": 65
+    },
+    "by_party": {
+      "Liberal Democrat": 46,
+      "Labour": 45,
+      "Independent": 7,
+      "Scottish National Party": 7,
+      "Green Party": 4,
+      "Plaid Cymru": 4,
+      "Democratic Unionist Party": 3,
+      "Social Democratic & Labour Party": 2,
+      "Alliance": 1,
+      "Conservative": 1,
+      "Reform UK": 1,
+      "Ulster Unionist Party": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2024-07-31": 1,
+        "2024-09-02": 1,
+        "2024-09-03": 16,
+        "2024-09-04": 11,
+        "2024-09-05": 7,
+        "2024-09-09": 7,
+        "2024-09-10": 9,
+        "2024-09-11": 3,
+        "2024-09-12": 9,
+        "2024-10-07": 6,
+        "2024-10-08": 1,
+        "2024-10-10": 1,
+        "2024-10-14": 2,
+        "2024-10-15": 4,
+        "2024-10-16": 1,
+        "2024-10-21": 2,
+        "2024-10-23": 1,
+        "2024-10-24": 2,
+        "2024-10-28": 1,
+        "2024-10-30": 1,
+        "2024-11-04": 2,
+        "2024-11-18": 2,
+        "2024-12-02": 1,
+        "2024-12-03": 1,
+        "2024-12-11": 1,
+        "2025-01-06": 1,
+        "2025-01-07": 1,
+        "2025-01-09": 1,
+        "2025-01-14": 1,
+        "2025-01-16": 1,
+        "2025-01-17": 1,
+        "2025-01-20": 2,
+        "2025-01-21": 1,
+        "2025-01-22": 1,
+        "2025-02-06": 1,
+        "2025-02-11": 1,
+        "2025-02-24": 1,
+        "2025-03-03": 3,
+        "2025-03-05": 1,
+        "2025-03-24": 1,
+        "2025-05-02": 1,
+        "2025-06-02": 1,
+        "2025-07-02": 1,
+        "2025-07-08": 1,
+        "2025-09-11": 1,
+        "2025-10-13": 1,
+        "2026-02-09": 1,
+        "2026-04-28": 4,
+        "2026-04-29": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1983": 1,
+        "1992": 1,
+        "1996": 1,
+        "1997": 3,
+        "2001": 3,
+        "2005": 2,
+        "2010": 6,
+        "2012": 1,
+        "2013": 1,
+        "2015": 9,
+        "2016": 1,
+        "2017": 5,
+        "2019": 13,
+        "2021": 2,
+        "2024": 74
+      },
+      "latest": {
+        "1983": 1,
+        "1992": 1,
+        "1996": 1,
+        "1997": 2,
+        "2001": 3,
+        "2005": 2,
+        "2010": 5,
+        "2012": 1,
+        "2013": 1,
+        "2015": 8,
+        "2017": 5,
+        "2019": 14,
+        "2021": 2,
+        "2024": 77
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 1,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 1
+    },
+    "by_party": {
+      "Independent": 1
+    },
+    "by_date": {
+      "creation": {
+        "2024-09-05": 1
+      },
+      "withdrawal": {
+        "2025-03-17": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "2017": 1
+      },
+      "latest": {
+        "2017": 1
+      }
+    }
+  },
+  "id": 62415,
+  "title": "Ban trophy hunting imports",
+  "text": "That this House notes CITES data and investigations by the Campaign to Ban Trophy Hunting published in the national media showing British trophy hunters are killing and bringing home trophies of threatened species including African elephants, lions, leopards, giraffes, hippopotamuses, zebras, wolves, monkeys, wild cats, lynxes, cougars, bears, and African civets; further notes that several parties made election pledges to ban hunting trophies in their manifestos, including the Government; acknowledges that a Private Members Bill drafted by the previous Government enjoyed strong cross-party support and passed unanimously in the House; recognises that the Department for Environment, Food and Rural Affairs conducted an extensive public consultation exercise involving 44,000 stakeholders, 86% of whom back a trophy import ban, that opinion polls show overwhelming voter support for an immediate and comprehensive ban; and strongly urges the Government to now bring forward a Bill in Government time which implements a world-leading ban without any further delay.",
+  "date_tabled": "02-09-2024",
+  "ranking": 7
+},
+{
+  "supporting": {
+    "total": 122,
+    "backbench": {
+      "total": 82
+    },
+    "frontbench": {
+      "total": 40
+    },
+    "women": {
+      "total": 56
+    },
+    "men": {
+      "total": 66
+    },
+    "by_party": {
+      "Liberal Democrat": 64,
+      "Labour": 34,
+      "Scottish National Party": 7,
+      "Green Party": 4,
+      "Plaid Cymru": 4,
+      "Conservative": 2,
+      "Democratic Unionist Party": 2,
+      "Independent": 2,
+      "Social Democratic & Labour Party": 2,
+      "Ulster Unionist Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2025-03-24": 1,
+        "2025-03-25": 9,
+        "2025-03-26": 6,
+        "2025-03-27": 9,
+        "2025-03-28": 1,
+        "2025-03-31": 8,
+        "2025-04-01": 3,
+        "2025-04-02": 2,
+        "2025-04-03": 3,
+        "2025-04-07": 2,
+        "2025-04-08": 2,
+        "2025-04-22": 3,
+        "2025-04-24": 1,
+        "2025-04-28": 9,
+        "2025-04-29": 6,
+        "2025-04-30": 3,
+        "2025-05-01": 1,
+        "2025-05-02": 4,
+        "2025-05-06": 6,
+        "2025-05-07": 3,
+        "2025-05-08": 1,
+        "2025-05-09": 3,
+        "2025-05-12": 5,
+        "2025-05-13": 1,
+        "2025-05-14": 1,
+        "2025-05-15": 3,
+        "2025-05-16": 2,
+        "2025-05-19": 1,
+        "2025-06-02": 7,
+        "2025-06-03": 2,
+        "2025-06-06": 1,
+        "2025-06-16": 1,
+        "2025-06-17": 1,
+        "2025-06-18": 2,
+        "2025-07-01": 1,
+        "2025-07-02": 1,
+        "2025-07-07": 1,
+        "2025-07-10": 1,
+        "2025-07-21": 1,
+        "2025-09-01": 1,
+        "2025-09-08": 1,
+        "2026-02-23": 1,
+        "2026-04-10": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1996": 1,
+        "1997": 5,
+        "2001": 1,
+        "2005": 2,
+        "2010": 4,
+        "2013": 1,
+        "2015": 6,
+        "2016": 2,
+        "2017": 6,
+        "2019": 10,
+        "2021": 2,
+        "2022": 1,
+        "2023": 1,
+        "2024": 80
+      },
+      "latest": {
+        "1996": 1,
+        "1997": 4,
+        "2001": 1,
+        "2005": 2,
+        "2010": 3,
+        "2013": 1,
+        "2015": 5,
+        "2016": 1,
+        "2017": 6,
+        "2019": 11,
+        "2021": 2,
+        "2022": 1,
+        "2023": 1,
+        "2024": 83
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 1,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 1
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2025-07-14": 1
+      },
+      "withdrawal": {
+        "2026-04-20": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "2019": 1
+      },
+      "latest": {
+        "2019": 1
+      }
+    }
+  },
+  "id": 63371,
+  "title": "Ensuring stability for Ukrainian refugees in the UK",
+  "text": "That this House believes that Ukrainian refugees fleeing war must be treated with compassion in the UK; recognises that the war in Ukraine still wages on, more than three years after Putin first invaded; notes with concern recent reports that some Ukrainian refugees have faced losing their homes and jobs due to uncertainty around their visa extensions; acknowledges that Ukrainian refugees deserve certainty, enabling them to rebuild their lives in the UK if they wish and fully contribute to our economy; further acknowledges that certainty regarding visa extensions would grant young Ukrainians the opportunity to complete their education in the UK to protect and enhance their future; and calls on the Government to give Ukrainian refugees the certainty they deserve by automatically extending their visas and setting out a pathway for obtaining Indefinite Leave to Remain.",
+  "date_tabled": "24-03-2025",
+  "ranking": 8
+},
+{
+  "supporting": {
+    "total": 121,
+    "backbench": {
+      "total": 78
+    },
+    "frontbench": {
+      "total": 43
+    },
+    "women": {
+      "total": 52
+    },
+    "men": {
+      "total": 69
+    },
+    "by_party": {
+      "Liberal Democrat": 59,
+      "Labour": 32,
+      "Scottish National Party": 9,
+      "Conservative": 5,
+      "Green Party": 5,
+      "Independent": 4,
+      "Plaid Cymru": 4,
+      "Democratic Unionist Party": 1,
+      "Social Democratic & Labour Party": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2025-10-27": 6,
+        "2025-10-28": 10,
+        "2025-10-29": 2,
+        "2025-10-30": 7,
+        "2025-11-03": 2,
+        "2025-11-04": 5,
+        "2025-11-05": 4,
+        "2025-11-11": 3,
+        "2025-11-17": 10,
+        "2025-11-18": 4,
+        "2025-11-19": 4,
+        "2025-11-20": 4,
+        "2025-11-24": 5,
+        "2025-11-25": 4,
+        "2025-11-26": 2,
+        "2025-11-27": 3,
+        "2025-11-28": 2,
+        "2025-12-01": 6,
+        "2025-12-02": 1,
+        "2025-12-04": 3,
+        "2025-12-08": 1,
+        "2025-12-10": 1,
+        "2025-12-16": 1,
+        "2025-12-17": 2,
+        "2025-12-18": 1,
+        "2026-01-05": 1,
+        "2026-01-06": 1,
+        "2026-01-13": 1,
+        "2026-01-16": 1,
+        "2026-01-28": 3,
+        "2026-01-30": 2,
+        "2026-02-02": 2,
+        "2026-02-03": 1,
+        "2026-02-05": 1,
+        "2026-02-11": 1,
+        "2026-02-12": 1,
+        "2026-02-26": 1,
+        "2026-02-27": 3,
+        "2026-03-02": 1,
+        "2026-03-16": 3,
+        "2026-03-18": 1,
+        "2026-03-19": 1,
+        "2026-04-10": 1,
+        "2026-04-13": 1,
+        "2026-04-20": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1983": 1,
+        "1987": 1,
+        "1992": 2,
+        "1996": 1,
+        "1997": 3,
+        "2001": 2,
+        "2005": 1,
+        "2010": 5,
+        "2015": 11,
+        "2016": 1,
+        "2017": 7,
+        "2019": 12,
+        "2021": 1,
+        "2023": 2,
+        "2024": 70,
+        "2026": 1
+      },
+      "latest": {
+        "1983": 1,
+        "1987": 1,
+        "1992": 2,
+        "1996": 1,
+        "1997": 2,
+        "2001": 2,
+        "2005": 1,
+        "2010": 4,
+        "2015": 10,
+        "2017": 7,
+        "2019": 13,
+        "2021": 1,
+        "2023": 2,
+        "2024": 73,
+        "2026": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 64572,
+  "title": "Buying community energy locally",
+  "text": "That this House recognises the many social, economic and environmental benefits that community energy schemes create; notes that the number of such schemes would grow greatly if they were enabled to sell their clean power directly to households and businesses in their communities; welcomes the Minister for Energy Security and Net Zero's oral contribution on 15 July 2025, stating that the Government are absolutely determined to deliver clean power that benefits local communities, so that they can buy it locally; further notes that there are many energy system experts that can help devise an effective local supply process; and therefore calls on the Government to expeditiously implement local supply rights for community energy schemes.",
+  "date_tabled": "27-10-2025",
+  "ranking": 9
+},
+{
+  "supporting": {
+    "total": 119,
+    "backbench": {
+      "total": 67
+    },
+    "frontbench": {
+      "total": 52
+    },
+    "women": {
+      "total": 48
+    },
+    "men": {
+      "total": 71
+    },
+    "by_party": {
+      "Labour": 46,
+      "Scottish National Party": 34,
+      "Liberal Democrat": 12,
+      "Independent": 7,
+      "Democratic Unionist Party": 5,
+      "Conservative": 4,
+      "Plaid Cymru": 3,
+      "Alba Party": 2,
+      "Social Democratic & Labour Party": 2,
+      "Your Party": 2,
+      "Alliance": 1,
+      "Green Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2021-06-14": 1,
+        "2021-06-15": 8,
+        "2021-06-17": 1,
+        "2021-06-21": 2,
+        "2021-06-22": 4,
+        "2021-06-24": 1,
+        "2021-06-28": 3,
+        "2021-06-30": 2,
+        "2021-07-01": 4,
+        "2021-07-02": 1,
+        "2021-07-05": 2,
+        "2021-07-06": 1,
+        "2021-07-07": 6,
+        "2021-07-08": 12,
+        "2021-07-12": 14,
+        "2021-07-13": 6,
+        "2021-07-14": 4,
+        "2021-07-15": 2,
+        "2021-07-16": 3,
+        "2021-07-19": 5,
+        "2021-07-20": 1,
+        "2021-07-21": 2,
+        "2021-07-22": 2,
+        "2021-08-18": 1,
+        "2021-09-02": 1,
+        "2021-09-06": 9,
+        "2021-09-09": 1,
+        "2021-09-10": 1,
+        "2021-09-13": 1,
+        "2021-09-14": 1,
+        "2021-09-22": 1,
+        "2021-10-18": 2,
+        "2021-10-20": 1,
+        "2021-11-02": 1,
+        "2021-11-04": 1,
+        "2021-11-08": 1,
+        "2021-11-15": 1,
+        "2022-01-05": 1,
+        "2022-01-21": 1,
+        "2022-01-24": 1,
+        "2022-02-01": 1,
+        "2022-03-18": 1,
+        "2022-03-23": 1,
+        "2022-04-21": 1,
+        "2022-04-22": 1,
+        "2022-04-28": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1982": 1,
+        "1983": 3,
+        "1986": 1,
+        "1992": 1,
+        "1996": 1,
+        "1997": 7,
+        "1999": 1,
+        "2000": 1,
+        "2001": 4,
+        "2005": 8,
+        "2007": 1,
+        "2010": 9,
+        "2011": 1,
+        "2013": 1,
+        "2015": 37,
+        "2016": 1,
+        "2017": 11,
+        "2019": 29,
+        "2021": 1
+      },
+      "latest": {
+        "1983": 1,
+        "1986": 1,
+        "1992": 1,
+        "1996": 1,
+        "1997": 3,
+        "1999": 1,
+        "2000": 1,
+        "2001": 5,
+        "2005": 8,
+        "2007": 1,
+        "2010": 10,
+        "2011": 1,
+        "2013": 1,
+        "2015": 33,
+        "2017": 13,
+        "2019": 34,
+        "2021": 1,
+        "2024": 2,
+        "2025": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 58635,
+  "title": "The fur trade in the UK",
+  "text": "That this House welcomes the Call for Evidence on the fur trade in the UK; urges the Government to introduce legislation to ban the import and sale of fur in the UK having first banned fur farms more than 20 years ago, something that is possible now that the UK has left the European Union; believes that, in view of the UK’s recognition that fur is too cruel to be farmed here, logically it is also too cruel to be sold here; welcomes the suggestion of such a law in the Government's recent Action Plan for Animal Welfare; acknowledges recent polling showing 72% of the British public welcome a fur sales ban; recognises the widespread political support for a ban on real fur sales and imports; further notes the link between Covid-19 and fur farms reported by the WHO in February 2021 which has resulted in millions of mink being culled across the world over the last year; and believes that a fur import and sales ban represents a significant opportunity for the UK to be a world leader in animal welfare.",
+  "date_tabled": "14-06-2021",
+  "ranking": 10
+}]

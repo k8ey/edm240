@@ -1,0 +1,128 @@
+{
+  "supporting": {
+    "total": 159,
+    "backbench": {
+      "total": 121
+    },
+    "frontbench": {
+      "total": 38
+    },
+    "women": {
+      "total": 77
+    },
+    "men": {
+      "total": 82
+    },
+    "by_party": {
+      "Labour": 87,
+      "Liberal Democrat": 53,
+      "Scottish National Party": 7,
+      "Plaid Cymru": 4,
+      "Green Party": 3,
+      "Independent": 2,
+      "Your Party": 2,
+      "Social Democratic & Labour Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2026-05-28": 1,
+        "2026-06-01": 26,
+        "2026-06-02": 23,
+        "2026-06-03": 25,
+        "2026-06-04": 13,
+        "2026-06-05": 4,
+        "2026-06-08": 10,
+        "2026-06-09": 9,
+        "2026-06-10": 16,
+        "2026-06-11": 4,
+        "2026-06-12": 1,
+        "2026-06-15": 5,
+        "2026-06-16": 2,
+        "2026-06-17": 3,
+        "2026-06-18": 4,
+        "2026-06-22": 2,
+        "2026-06-23": 2,
+        "2026-06-24": 5,
+        "2026-06-25": 1,
+        "2026-06-29": 2,
+        "2026-06-30": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1983": 1,
+        "1987": 1,
+        "1996": 1,
+        "1997": 2,
+        "2001": 2,
+        "2005": 4,
+        "2010": 4,
+        "2015": 11,
+        "2016": 1,
+        "2017": 7,
+        "2019": 18,
+        "2021": 2,
+        "2023": 2,
+        "2024": 101,
+        "2026": 2
+      },
+      "latest": {
+        "1983": 1,
+        "1987": 1,
+        "1996": 1,
+        "1997": 2,
+        "2001": 2,
+        "2005": 3,
+        "2010": 3,
+        "2015": 12,
+        "2016": 1,
+        "2017": 7,
+        "2019": 18,
+        "2021": 2,
+        "2023": 2,
+        "2024": 102,
+        "2026": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 2,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 1
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 2
+    },
+    "by_party": {
+      "Liberal Democrat": 2
+    },
+    "by_date": {
+      "creation": {
+        "2026-06-02": 2
+      },
+      "withdrawal": {
+        "2026-06-02": 2
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1997": 1,
+        "2005": 1
+      },
+      "latest": {
+        "2005": 1,
+        "2024": 1
+      }
+    }
+  },
+  "id": 65938,
+  "title": "Draft Code of Practice on Services, public functions and associations",
+  "text": "That the draft Code of Practice for Services, public functions and associations, a copy of which was laid before this House on 21 May, be disapproved.",
+  "date_tabled": "01-06-2026"
+}

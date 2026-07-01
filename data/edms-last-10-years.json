@@ -1,0 +1,1538 @@
+[{
+  "supporting": {
+    "total": 265,
+    "backbench": {
+      "total": 160
+    },
+    "frontbench": {
+      "total": 105
+    },
+    "women": {
+      "total": 91
+    },
+    "men": {
+      "total": 174
+    },
+    "by_party": {
+      "Labour": 165,
+      "Conservative": 31,
+      "Scottish National Party": 25,
+      "Independent": 17,
+      "Liberal Democrat": 9,
+      "Democratic Unionist Party": 8,
+      "Plaid Cymru": 3,
+      "Crossbench": 2,
+      "The Independent Group for Change": 2,
+      "Green Party": 1,
+      "Non-affiliated": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-12-19": 111,
+        "2017-12-20": 56,
+        "2017-12-21": 75,
+        "2018-01-08": 3,
+        "2018-01-09": 2,
+        "2018-01-10": 2,
+        "2018-01-11": 1,
+        "2018-01-15": 2,
+        "2018-01-16": 2,
+        "2018-01-17": 2,
+        "2018-01-18": 2,
+        "2018-01-22": 2,
+        "2018-01-23": 2,
+        "2018-01-31": 1,
+        "2018-02-02": 2
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 2,
+        "1975": 1,
+        "1976": 1,
+        "1979": 2,
+        "1982": 2,
+        "1983": 6,
+        "1984": 1,
+        "1986": 1,
+        "1987": 4,
+        "1989": 1,
+        "1992": 9,
+        "1994": 2,
+        "1997": 31,
+        "1999": 1,
+        "2000": 3,
+        "2001": 15,
+        "2004": 1,
+        "2005": 20,
+        "2006": 1,
+        "2010": 34,
+        "2011": 4,
+        "2012": 3,
+        "2013": 1,
+        "2014": 2,
+        "2015": 58,
+        "2016": 3,
+        "2017": 56
+      },
+      "latest": {
+        "1970": 1,
+        "1975": 1,
+        "1976": 1,
+        "1979": 1,
+        "1983": 4,
+        "1984": 1,
+        "1986": 1,
+        "1987": 4,
+        "1992": 8,
+        "1994": 1,
+        "1997": 20,
+        "1999": 1,
+        "2000": 3,
+        "2001": 11,
+        "2004": 1,
+        "2005": 15,
+        "2006": 1,
+        "2010": 32,
+        "2011": 4,
+        "2012": 3,
+        "2013": 1,
+        "2014": 2,
+        "2015": 57,
+        "2016": 3,
+        "2017": 59,
+        "2019": 1,
+        "2020": 5,
+        "2021": 2,
+        "2022": 3,
+        "2024": 13,
+        "2025": 5
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 1,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 1
+    },
+    "by_party": {
+      "Reform UK": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-12-19": 1
+      },
+      "withdrawal": {
+        "2017-12-19": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "2014": 1
+      },
+      "latest": {
+        "2014": 1
+      }
+    }
+  },
+  "id": 51177,
+  "title": "NATIONAL SIKH WAR MEMORIAL",
+  "text": "That this House appreciates the extraordinary bravery and sacrifices of Sikh soldiers in service of Great Britain, including during both World Wars, and supports the erection of a permanent national monument in a prime central London location to commemorate and highlight these contributions; notes that for over a decade there has been a demand from various quarters for the installation of such a national monument; welcomes the recent statement by the Mayor of London, who said it is only right that these brave individuals should have a memorial in our capital city; notes that, though Sikhs made up only two per cent of the population of British India, they formed 20 per cent of the British Indian Army during the First World War, and that hundreds of thousands of Sikh soldiers saw active service during the two major wars and many other conflicts; further notes that more than 83,000 turbaned Sikh soldiers laid down their lives and more than 100,000 were injured during the World Wars; and calls on the Government to actively support a memorial dedicated to those who made or were willing to make the ultimate sacrifice for the freedom of our country.",
+  "date_tabled": "19-12-2017",
+  "ranking": 1
+},
+{
+  "supporting": {
+    "total": 225,
+    "backbench": {
+      "total": 153
+    },
+    "frontbench": {
+      "total": 72
+    },
+    "women": {
+      "total": 80
+    },
+    "men": {
+      "total": 145
+    },
+    "by_party": {
+      "Labour": 130,
+      "Conservative": 23,
+      "Scottish National Party": 22,
+      "Independent": 17,
+      "Liberal Democrat": 14,
+      "Democratic Unionist Party": 9,
+      "Plaid Cymru": 3,
+      "Crossbench": 2,
+      "Non-affiliated": 2,
+      "The Independent Group for Change": 2,
+      "Green Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2019-04-16": 1,
+        "2019-04-24": 5,
+        "2019-04-25": 9,
+        "2019-04-26": 7,
+        "2019-04-29": 16,
+        "2019-04-30": 14,
+        "2019-05-01": 11,
+        "2019-05-02": 4,
+        "2019-05-03": 2,
+        "2019-05-06": 1,
+        "2019-05-07": 5,
+        "2019-05-08": 6,
+        "2019-05-09": 10,
+        "2019-05-10": 3,
+        "2019-05-13": 12,
+        "2019-05-14": 7,
+        "2019-05-15": 8,
+        "2019-05-16": 5,
+        "2019-05-20": 4,
+        "2019-05-21": 2,
+        "2019-05-22": 3,
+        "2019-05-23": 4,
+        "2019-06-04": 9,
+        "2019-06-05": 4,
+        "2019-06-06": 1,
+        "2019-06-07": 1,
+        "2019-06-10": 1,
+        "2019-06-11": 1,
+        "2019-06-14": 1,
+        "2019-06-16": 1,
+        "2019-06-17": 1,
+        "2019-06-19": 1,
+        "2019-06-24": 2,
+        "2019-06-25": 2,
+        "2019-07-01": 2,
+        "2019-07-03": 1,
+        "2019-07-04": 1,
+        "2019-07-09": 2,
+        "2019-07-10": 3,
+        "2019-07-12": 2,
+        "2019-07-22": 1,
+        "2019-07-23": 1,
+        "2019-07-31": 1,
+        "2019-08-09": 1,
+        "2019-08-13": 1,
+        "2019-08-15": 1,
+        "2019-09-02": 1,
+        "2019-09-03": 6,
+        "2019-09-05": 2,
+        "2019-09-24": 1,
+        "2019-09-25": 2,
+        "2019-09-26": 1,
+        "2019-09-27": 1,
+        "2019-09-30": 5,
+        "2019-10-01": 14,
+        "2019-10-02": 2,
+        "2019-10-03": 5,
+        "2019-10-07": 3,
+        "2019-10-08": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1975": 1,
+        "1976": 1,
+        "1979": 2,
+        "1982": 2,
+        "1983": 4,
+        "1984": 1,
+        "1986": 1,
+        "1987": 2,
+        "1989": 1,
+        "1992": 9,
+        "1994": 1,
+        "1997": 26,
+        "1999": 1,
+        "2000": 3,
+        "2001": 18,
+        "2004": 1,
+        "2005": 14,
+        "2007": 2,
+        "2010": 37,
+        "2011": 3,
+        "2012": 2,
+        "2013": 1,
+        "2015": 46,
+        "2016": 1,
+        "2017": 40,
+        "2018": 1,
+        "2019": 3
+      },
+      "latest": {
+        "1970": 1,
+        "1975": 1,
+        "1976": 1,
+        "1979": 1,
+        "1983": 2,
+        "1984": 1,
+        "1986": 1,
+        "1987": 2,
+        "1992": 8,
+        "1994": 1,
+        "1997": 17,
+        "1999": 1,
+        "2000": 3,
+        "2001": 15,
+        "2004": 1,
+        "2005": 11,
+        "2007": 1,
+        "2010": 33,
+        "2011": 3,
+        "2012": 2,
+        "2013": 1,
+        "2015": 43,
+        "2016": 1,
+        "2017": 44,
+        "2018": 1,
+        "2019": 4,
+        "2020": 6,
+        "2021": 2,
+        "2022": 2,
+        "2024": 11,
+        "2025": 4
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 52822,
+  "title": "PROVIDING FINANCIAL RESTITUTION TO 1950s WOMEN",
+  "text": "That this House welcomes the positive interventions from many hon. Members from across the House on behalf of women born in the 1950s who have lost their pensions; welcomes the equalisation of retirement ages between women and men; recalls that women born in the 1950s were subject to discriminatory employment and pension laws; recognises that this included being excluded from some pensions schemes; recognises that this had the negative effect for them of losing the opportunity to have the same level of pension as their partner or spouse; further recognises that this has had the consequence of women in this position never being able to have equal pensions to men; further notes that this has negatively and profoundly impacted on them including increased poverty, deteriorating health and homelessness; notes that at least 3.8 million women have been impacted by the loss of their pensions from the age of 60 in three separate age hikes; and calls on the Government to enact a temporary special measure as permitted by international law to provide restitution to women born in the 1950s who have lost their pensions from the age of 60 because of the impact of the rise in retirement age.",
+  "date_tabled": "23-04-2019",
+  "ranking": 2
+},
+{
+  "supporting": {
+    "total": 206,
+    "backbench": {
+      "total": 111
+    },
+    "frontbench": {
+      "total": 95
+    },
+    "women": {
+      "total": 92
+    },
+    "men": {
+      "total": 114
+    },
+    "by_party": {
+      "Labour": 130,
+      "Scottish National Party": 48,
+      "Independent": 14,
+      "Liberal Democrat": 6,
+      "Plaid Cymru": 2,
+      "Social Democratic & Labour Party": 2,
+      "The Independent Group for Change": 2,
+      "Crossbench": 1,
+      "Green Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-01-30": 73,
+        "2017-01-31": 42,
+        "2017-02-01": 28,
+        "2017-02-02": 7,
+        "2017-02-03": 13,
+        "2017-02-06": 26,
+        "2017-02-07": 12,
+        "2017-02-08": 3,
+        "2017-02-09": 1,
+        "2017-02-20": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1966": 1,
+        "1970": 1,
+        "1976": 1,
+        "1979": 2,
+        "1982": 1,
+        "1984": 1,
+        "1987": 3,
+        "1992": 7,
+        "1994": 2,
+        "1996": 1,
+        "1997": 14,
+        "1999": 1,
+        "2000": 3,
+        "2001": 14,
+        "2004": 2,
+        "2005": 20,
+        "2007": 1,
+        "2010": 38,
+        "2011": 3,
+        "2012": 4,
+        "2013": 1,
+        "2014": 1,
+        "2015": 80,
+        "2016": 4
+      },
+      "latest": {
+        "1970": 1,
+        "1976": 1,
+        "1979": 2,
+        "1984": 1,
+        "1987": 2,
+        "1992": 6,
+        "1994": 1,
+        "1996": 1,
+        "1997": 10,
+        "1999": 1,
+        "2000": 3,
+        "2001": 13,
+        "2004": 2,
+        "2005": 16,
+        "2007": 1,
+        "2010": 35,
+        "2011": 3,
+        "2012": 4,
+        "2013": 1,
+        "2014": 1,
+        "2015": 73,
+        "2016": 3,
+        "2019": 7,
+        "2020": 1,
+        "2021": 2,
+        "2022": 1,
+        "2024": 10,
+        "2025": 4
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 50145,
+  "title": "VISIT TO PARLIAMENT BY PRESIDENT TRUMP",
+  "text": "That this House deplores recent actions taken by US President Donald J Trump, including his Executive Order on Immigration and Refugees, and notably his comments on torture and women; notes the historical significance and honour that comes with an invitation to address both Houses of Parliament in Westminster Hall or elsewhere in the Palace of Westminster; and calls on the Speaker, Lord Speaker, Black Rod and Serjeant at Arms to withhold permission from the Government for an address to be made in Westminster Hall, or elsewhere in the Palace of Westminster, by President Trump.",
+  "date_tabled": "30-01-2017",
+  "ranking": 3
+},
+{
+  "supporting": {
+    "total": 198,
+    "backbench": {
+      "total": 126
+    },
+    "frontbench": {
+      "total": 72
+    },
+    "women": {
+      "total": 71
+    },
+    "men": {
+      "total": 127
+    },
+    "by_party": {
+      "Labour": 120,
+      "Scottish National Party": 33,
+      "Independent": 15,
+      "Liberal Democrat": 10,
+      "Democratic Unionist Party": 8,
+      "Conservative": 3,
+      "Plaid Cymru": 3,
+      "Crossbench": 2,
+      "The Independent Group for Change": 2,
+      "Green Party": 1,
+      "Non-affiliated": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-06-27": 6,
+        "2017-06-28": 31,
+        "2017-06-29": 40,
+        "2017-07-03": 29,
+        "2017-07-04": 18,
+        "2017-07-05": 14,
+        "2017-07-06": 7,
+        "2017-07-10": 10,
+        "2017-07-11": 5,
+        "2017-07-12": 3,
+        "2017-07-13": 8,
+        "2017-07-17": 5,
+        "2017-07-18": 4,
+        "2017-07-19": 3,
+        "2017-07-20": 2,
+        "2017-09-05": 5,
+        "2017-09-07": 1,
+        "2017-09-12": 1,
+        "2017-10-09": 1,
+        "2017-10-16": 1,
+        "2017-11-14": 1,
+        "2018-07-18": 1,
+        "2019-05-01": 1,
+        "2019-10-04": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1975": 1,
+        "1976": 1,
+        "1979": 2,
+        "1982": 2,
+        "1983": 2,
+        "1984": 1,
+        "1986": 1,
+        "1987": 2,
+        "1989": 1,
+        "1992": 7,
+        "1997": 18,
+        "1999": 1,
+        "2000": 1,
+        "2001": 16,
+        "2005": 11,
+        "2007": 1,
+        "2010": 26,
+        "2011": 1,
+        "2012": 1,
+        "2015": 52,
+        "2016": 3,
+        "2017": 46
+      },
+      "latest": {
+        "1970": 1,
+        "1975": 1,
+        "1976": 1,
+        "1979": 1,
+        "1983": 1,
+        "1984": 1,
+        "1986": 1,
+        "1987": 2,
+        "1992": 6,
+        "1997": 9,
+        "1999": 1,
+        "2000": 1,
+        "2001": 13,
+        "2005": 10,
+        "2010": 22,
+        "2011": 1,
+        "2012": 1,
+        "2015": 50,
+        "2016": 3,
+        "2017": 51,
+        "2019": 1,
+        "2020": 4,
+        "2021": 2,
+        "2022": 1,
+        "2024": 10,
+        "2025": 3
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 1,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 1
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {
+      "Labour": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-09-05": 1
+      },
+      "withdrawal": {
+        "2019-03-27": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "2017": 1
+      },
+      "latest": {
+        "2017": 1
+      }
+    }
+  },
+  "id": 50524,
+  "title": "WOMEN AGAINST STATE PENSION INEQUALITY",
+  "text": "That this House believes it has a moral duty to ensure that there is a fair transition for women born on or after 6 April 1951 regarding their pensions; recognises the need for a non-means tested bridging pension that will secure the financial stability of those affected by the 1995 and 2011 Pension Acts and compensation for those at risk of losing in the region of £45,000, creating a fairer pension system for all; and calls on the Government to bring forward transitional arrangements to provide pension certainty for the women disproportionately affected by this system.",
+  "date_tabled": "27-06-2017",
+  "ranking": 4
+},
+{
+  "supporting": {
+    "total": 187,
+    "backbench": {
+      "total": 102
+    },
+    "frontbench": {
+      "total": 85
+    },
+    "women": {
+      "total": 68
+    },
+    "men": {
+      "total": 119
+    },
+    "by_party": {
+      "Labour": 109,
+      "Scottish National Party": 44,
+      "Independent": 13,
+      "Liberal Democrat": 10,
+      "Democratic Unionist Party": 2,
+      "Non-affiliated": 2,
+      "Plaid Cymru": 2,
+      "Social Democratic & Labour Party": 2,
+      "Conservative": 1,
+      "Green Party": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-02-27": 28,
+        "2017-02-28": 12,
+        "2017-03-01": 18,
+        "2017-03-02": 6,
+        "2017-03-06": 22,
+        "2017-03-07": 15,
+        "2017-03-08": 7,
+        "2017-03-09": 7,
+        "2017-03-13": 11,
+        "2017-03-14": 17,
+        "2017-03-15": 6,
+        "2017-03-16": 7,
+        "2017-03-20": 6,
+        "2017-03-21": 4,
+        "2017-03-22": 1,
+        "2017-03-23": 5,
+        "2017-03-24": 1,
+        "2017-03-27": 3,
+        "2017-03-28": 3,
+        "2017-03-29": 4,
+        "2017-03-30": 4
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1966": 1,
+        "1970": 1,
+        "1979": 1,
+        "1983": 3,
+        "1984": 1,
+        "1986": 1,
+        "1987": 4,
+        "1989": 1,
+        "1992": 5,
+        "1994": 1,
+        "1996": 1,
+        "1997": 17,
+        "1999": 1,
+        "2000": 2,
+        "2001": 16,
+        "2005": 21,
+        "2007": 1,
+        "2010": 31,
+        "2011": 1,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 70,
+        "2016": 4
+      },
+      "latest": {
+        "1970": 1,
+        "1979": 2,
+        "1983": 3,
+        "1984": 1,
+        "1986": 1,
+        "1987": 3,
+        "1992": 4,
+        "1994": 1,
+        "1996": 1,
+        "1997": 13,
+        "1999": 1,
+        "2000": 2,
+        "2001": 12,
+        "2005": 18,
+        "2007": 1,
+        "2010": 31,
+        "2011": 1,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 63,
+        "2016": 3,
+        "2019": 8,
+        "2020": 4,
+        "2021": 1,
+        "2022": 1,
+        "2024": 5,
+        "2025": 2,
+        "2026": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 50240,
+  "title": "SOCIAL SECURITY",
+  "text": "That an humble Address be presented to Her Majesty, praying that the Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I., 2017, No. 194), dated 22 February 2017, a copy of which was laid before this House on 23 February, be annulled.",
+  "date_tabled": "27-02-2017",
+  "ranking": 5
+},
+{
+  "supporting": {
+    "total": 178,
+    "backbench": {
+      "total": 123
+    },
+    "frontbench": {
+      "total": 55
+    },
+    "women": {
+      "total": 61
+    },
+    "men": {
+      "total": 117
+    },
+    "by_party": {
+      "Labour": 89,
+      "Scottish National Party": 28,
+      "Conservative": 19,
+      "Independent": 15,
+      "Liberal Democrat": 12,
+      "Democratic Unionist Party": 7,
+      "Plaid Cymru": 3,
+      "The Independent Group for Change": 2,
+      "Crossbench": 1,
+      "Green Party": 1,
+      "Non-affiliated": 1
+    },
+    "by_date": {
+      "creation": {
+        "2018-11-13": 1,
+        "2018-11-14": 11,
+        "2018-11-15": 6,
+        "2018-11-19": 34,
+        "2018-11-20": 17,
+        "2018-11-21": 12,
+        "2018-11-22": 4,
+        "2018-11-26": 7,
+        "2018-11-27": 4,
+        "2018-11-28": 7,
+        "2018-11-29": 3,
+        "2018-12-03": 3,
+        "2018-12-04": 2,
+        "2018-12-05": 2,
+        "2018-12-06": 4,
+        "2018-12-10": 2,
+        "2018-12-13": 1,
+        "2018-12-17": 3,
+        "2018-12-18": 2,
+        "2019-01-07": 4,
+        "2019-01-08": 10,
+        "2019-01-09": 2,
+        "2019-01-10": 1,
+        "2019-01-14": 1,
+        "2019-01-15": 2,
+        "2019-01-16": 1,
+        "2019-01-17": 2,
+        "2019-01-18": 2,
+        "2019-01-22": 2,
+        "2019-01-23": 1,
+        "2019-01-29": 1,
+        "2019-02-05": 2,
+        "2019-02-07": 2,
+        "2019-02-25": 1,
+        "2019-03-25": 1,
+        "2019-03-26": 1,
+        "2019-04-03": 1,
+        "2019-04-08": 2,
+        "2019-04-12": 1,
+        "2019-05-01": 1,
+        "2019-05-16": 1,
+        "2019-06-05": 1,
+        "2019-06-17": 1,
+        "2019-07-03": 1,
+        "2019-07-04": 1,
+        "2019-07-15": 1,
+        "2019-07-18": 1,
+        "2019-09-03": 5
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1975": 1,
+        "1979": 2,
+        "1982": 1,
+        "1983": 3,
+        "1984": 1,
+        "1986": 1,
+        "1987": 3,
+        "1989": 1,
+        "1992": 8,
+        "1997": 22,
+        "1999": 1,
+        "2000": 2,
+        "2001": 12,
+        "2005": 9,
+        "2007": 1,
+        "2010": 28,
+        "2011": 3,
+        "2013": 1,
+        "2015": 46,
+        "2017": 28,
+        "2018": 1,
+        "2019": 2
+      },
+      "latest": {
+        "1970": 1,
+        "1975": 1,
+        "1979": 1,
+        "1983": 2,
+        "1984": 1,
+        "1986": 1,
+        "1987": 3,
+        "1992": 8,
+        "1997": 15,
+        "1999": 1,
+        "2000": 2,
+        "2001": 11,
+        "2005": 8,
+        "2007": 1,
+        "2010": 26,
+        "2011": 3,
+        "2013": 1,
+        "2015": 44,
+        "2017": 32,
+        "2018": 1,
+        "2019": 3,
+        "2020": 4,
+        "2021": 1,
+        "2022": 1,
+        "2024": 5,
+        "2025": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 52304,
+  "title": "TROPHY HUNTING",
+  "text": "That this House notes with concern that hundreds of hunting trophies have been imported into the UK in recent years, including from species threatened with extinction such as elephants, lions, hippopotamuses, leopards and rhinoceroses; further notes that trophy hunting is having a negative effect on wildlife through the loss of significant numbers of healthy individuals that are key to the survival of rapidly declining populations, that unsustainable rates of trophy hunting have caused some populations of Africa's big cats to decline, and that hunting and poaching of elephants is outpacing their rate of reproduction; considers that trophy hunting is cruel, immoral, archaic and unjustifiable, and can act as a cover for illegal poaching; further considers that a global end to trophy hunting is desirable, and that nature tourism is a humane and more effective means of conserving wildlife and supporting local communities; and calls on the Government to commit to halting imports of hunting trophies as a matter of urgency.",
+  "date_tabled": "13-11-2018",
+  "ranking": 6
+},
+{
+  "supporting": {
+    "total": 169,
+    "backbench": {
+      "total": 96
+    },
+    "frontbench": {
+      "total": 73
+    },
+    "women": {
+      "total": 66
+    },
+    "men": {
+      "total": 103
+    },
+    "by_party": {
+      "Labour": 119,
+      "Scottish National Party": 17,
+      "Independent": 10,
+      "Liberal Democrat": 8,
+      "Conservative": 4,
+      "Democratic Unionist Party": 4,
+      "Social Democratic & Labour Party": 2,
+      "Ulster Unionist Party": 2,
+      "Green Party": 1,
+      "Plaid Cymru": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2016-12-07": 18,
+        "2016-12-08": 7,
+        "2016-12-12": 67,
+        "2016-12-13": 19,
+        "2016-12-14": 10,
+        "2016-12-15": 4,
+        "2016-12-16": 3,
+        "2016-12-19": 11,
+        "2016-12-20": 13,
+        "2017-01-09": 8,
+        "2017-01-17": 1,
+        "2017-01-18": 1,
+        "2017-01-19": 1,
+        "2017-02-20": 1,
+        "2017-02-28": 1,
+        "2017-03-02": 1,
+        "2017-03-13": 1,
+        "2017-03-22": 1,
+        "2017-03-28": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1975": 1,
+        "1979": 1,
+        "1982": 2,
+        "1983": 4,
+        "1986": 1,
+        "1987": 5,
+        "1992": 7,
+        "1994": 2,
+        "1997": 20,
+        "2000": 1,
+        "2001": 15,
+        "2005": 16,
+        "2007": 1,
+        "2010": 34,
+        "2011": 1,
+        "2012": 2,
+        "2013": 1,
+        "2015": 51,
+        "2016": 3
+      },
+      "latest": {
+        "1970": 1,
+        "1975": 1,
+        "1979": 1,
+        "1983": 4,
+        "1986": 1,
+        "1987": 5,
+        "1992": 6,
+        "1994": 1,
+        "1997": 16,
+        "2000": 1,
+        "2001": 10,
+        "2005": 13,
+        "2007": 1,
+        "2010": 30,
+        "2011": 1,
+        "2012": 2,
+        "2013": 1,
+        "2015": 46,
+        "2016": 3,
+        "2019": 2,
+        "2020": 1,
+        "2021": 2,
+        "2022": 2,
+        "2024": 13,
+        "2025": 4,
+        "2026": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 50030,
+  "title": "CHILDREN'S FUNERAL COSTS",
+  "text": "That this House notes that approximately 5,000 infants and children pass away each year in the UK; further notes that the cost of children's funerals imposes a significant and unexpected financial burden on bereaved parents; recognises that some local authorities, as well as religious officiants and undertakers, currently waive all or a proportion of the fees associated with children's funerals; further recognises that many individuals, community groups and schools undertake fundraising to cover such funeral costs; acknowledges that the total annual cost of fees associated with children's funerals is £10 million; and calls on the Government to establish a specific fund, from which local authorities can draw, to pay the costs associated with children's funerals.",
+  "date_tabled": "07-12-2016",
+  "ranking": 7
+},
+{
+  "supporting": {
+    "total": 168,
+    "backbench": {
+      "total": 98
+    },
+    "frontbench": {
+      "total": 70
+    },
+    "women": {
+      "total": 66
+    },
+    "men": {
+      "total": 102
+    },
+    "by_party": {
+      "Labour": 73,
+      "Scottish National Party": 42,
+      "Conservative": 15,
+      "Independent": 11,
+      "Liberal Democrat": 11,
+      "Democratic Unionist Party": 5,
+      "Alba Party": 2,
+      "Plaid Cymru": 2,
+      "Social Democratic & Labour Party": 2,
+      "Your Party": 2,
+      "Alliance": 1,
+      "Green Party": 1,
+      "Reform UK": 1
+    },
+    "by_date": {
+      "creation": {
+        "2020-01-09": 1,
+        "2020-01-10": 1,
+        "2020-01-13": 1,
+        "2020-01-14": 4,
+        "2020-01-15": 6,
+        "2020-01-16": 18,
+        "2020-01-17": 1,
+        "2020-01-20": 15,
+        "2020-01-21": 1,
+        "2020-01-22": 5,
+        "2020-01-23": 3,
+        "2020-01-24": 1,
+        "2020-01-27": 5,
+        "2020-01-28": 4,
+        "2020-01-29": 6,
+        "2020-01-30": 4,
+        "2020-01-31": 2,
+        "2020-02-03": 5,
+        "2020-02-04": 1,
+        "2020-02-05": 6,
+        "2020-02-07": 1,
+        "2020-02-10": 1,
+        "2020-02-11": 2,
+        "2020-02-12": 5,
+        "2020-02-13": 2,
+        "2020-02-17": 1,
+        "2020-02-21": 1,
+        "2020-02-24": 2,
+        "2020-02-25": 3,
+        "2020-02-27": 3,
+        "2020-02-28": 1,
+        "2020-03-02": 5,
+        "2020-03-03": 4,
+        "2020-03-04": 2,
+        "2020-03-05": 1,
+        "2020-03-09": 1,
+        "2020-03-11": 2,
+        "2020-03-12": 2,
+        "2020-03-17": 1,
+        "2020-03-18": 1,
+        "2020-03-25": 1,
+        "2020-04-21": 7,
+        "2020-05-04": 1,
+        "2020-05-05": 1,
+        "2020-05-06": 1,
+        "2020-05-11": 2,
+        "2020-05-12": 1,
+        "2020-05-18": 1,
+        "2020-05-20": 1,
+        "2020-05-21": 1,
+        "2020-06-01": 1,
+        "2020-06-02": 1,
+        "2020-06-09": 1,
+        "2020-06-15": 1,
+        "2020-06-18": 1,
+        "2020-06-29": 2,
+        "2020-07-06": 1,
+        "2020-07-13": 1,
+        "2020-07-22": 1,
+        "2020-09-10": 1,
+        "2020-09-15": 1,
+        "2020-09-28": 1,
+        "2020-11-03": 2,
+        "2020-11-23": 1,
+        "2020-12-03": 1,
+        "2021-01-14": 1,
+        "2021-02-10": 1,
+        "2021-04-12": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1975": 1,
+        "1979": 1,
+        "1982": 2,
+        "1983": 4,
+        "1986": 1,
+        "1987": 1,
+        "1992": 3,
+        "1994": 1,
+        "1996": 1,
+        "1997": 11,
+        "1999": 1,
+        "2000": 2,
+        "2001": 9,
+        "2005": 8,
+        "2007": 1,
+        "2010": 19,
+        "2011": 1,
+        "2013": 1,
+        "2015": 45,
+        "2016": 1,
+        "2017": 16,
+        "2018": 1,
+        "2019": 37
+      },
+      "latest": {
+        "1975": 1,
+        "1979": 1,
+        "1983": 2,
+        "1986": 1,
+        "1987": 1,
+        "1992": 3,
+        "1994": 1,
+        "1996": 1,
+        "1997": 7,
+        "1999": 1,
+        "2000": 2,
+        "2001": 8,
+        "2005": 8,
+        "2007": 1,
+        "2010": 20,
+        "2011": 1,
+        "2013": 1,
+        "2015": 40,
+        "2017": 18,
+        "2018": 1,
+        "2019": 43,
+        "2024": 4,
+        "2025": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 53503,
+  "title": "Ban on trophy hunting imports",
+  "text": "That this House welcomes the Government's public consultation on controls on the import and export of hunting trophies; notes the strong cross-party support for EDM 1829, Session 2017-19 and that 86 per cent of the British public support an end to trophy hunting; further notes that most UK trophy imports are of threatened species and that the number of trophy imports from captive-bred animals is growing; believes that trophy hunting has had devastating impacts on some wildlife populations and that the pursuit of animals with the largest tusks, horns, or antlers is resulting in artificial selection which imperils the survival of these species; further believes that trophy hunting fees rarely provide substantive funding for conservation or benefits to local communities; is strongly of the view that killing animals for trophies is indefensible and cruel and that it has no place in the modern world; urges policy-makers to work with stakeholders to support sustainable economic development that creates real prosperity for people through preserving our natural heritage; and calls on the Government to implement a comprehensive ban on trophy hunting imports and exports as quickly as possible, to consider an immediate moratorium, and to work with other Governments to help bring an end to trophy hunting.",
+  "date_tabled": "09-01-2020",
+  "ranking": 8
+},
+{
+  "supporting": {
+    "total": 159,
+    "backbench": {
+      "total": 121
+    },
+    "frontbench": {
+      "total": 38
+    },
+    "women": {
+      "total": 77
+    },
+    "men": {
+      "total": 82
+    },
+    "by_party": {
+      "Labour": 87,
+      "Liberal Democrat": 53,
+      "Scottish National Party": 7,
+      "Plaid Cymru": 4,
+      "Green Party": 3,
+      "Independent": 2,
+      "Your Party": 2,
+      "Social Democratic & Labour Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2026-05-28": 1,
+        "2026-06-01": 26,
+        "2026-06-02": 23,
+        "2026-06-03": 25,
+        "2026-06-04": 13,
+        "2026-06-05": 4,
+        "2026-06-08": 10,
+        "2026-06-09": 9,
+        "2026-06-10": 16,
+        "2026-06-11": 4,
+        "2026-06-12": 1,
+        "2026-06-15": 5,
+        "2026-06-16": 2,
+        "2026-06-17": 3,
+        "2026-06-18": 4,
+        "2026-06-22": 2,
+        "2026-06-23": 2,
+        "2026-06-24": 5,
+        "2026-06-25": 1,
+        "2026-06-29": 2,
+        "2026-06-30": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1983": 1,
+        "1987": 1,
+        "1996": 1,
+        "1997": 2,
+        "2001": 2,
+        "2005": 4,
+        "2010": 4,
+        "2015": 11,
+        "2016": 1,
+        "2017": 7,
+        "2019": 18,
+        "2021": 2,
+        "2023": 2,
+        "2024": 101,
+        "2026": 2
+      },
+      "latest": {
+        "1983": 1,
+        "1987": 1,
+        "1996": 1,
+        "1997": 2,
+        "2001": 2,
+        "2005": 3,
+        "2010": 3,
+        "2015": 12,
+        "2016": 1,
+        "2017": 7,
+        "2019": 18,
+        "2021": 2,
+        "2023": 2,
+        "2024": 102,
+        "2026": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 2,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 1
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 2
+    },
+    "by_party": {
+      "Liberal Democrat": 2
+    },
+    "by_date": {
+      "creation": {
+        "2026-06-02": 2
+      },
+      "withdrawal": {
+        "2026-06-02": 2
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1997": 1,
+        "2005": 1
+      },
+      "latest": {
+        "2005": 1,
+        "2024": 1
+      }
+    }
+  },
+  "id": 65938,
+  "title": "Draft Code of Practice on Services, public functions and associations",
+  "text": "That the draft Code of Practice for Services, public functions and associations, a copy of which was laid before this House on 21 May, be disapproved.",
+  "date_tabled": "01-06-2026",
+  "ranking": 9
+},
+{
+  "supporting": {
+    "total": 158,
+    "backbench": {
+      "total": 107
+    },
+    "frontbench": {
+      "total": 51
+    },
+    "women": {
+      "total": 53
+    },
+    "men": {
+      "total": 105
+    },
+    "by_party": {
+      "Labour": 72,
+      "Scottish National Party": 47,
+      "Independent": 13,
+      "Liberal Democrat": 7,
+      "Democratic Unionist Party": 6,
+      "Conservative": 4,
+      "Plaid Cymru": 2,
+      "Social Democratic & Labour Party": 2,
+      "Crossbench": 1,
+      "Green Party": 1,
+      "Non-affiliated": 1,
+      "The Independent Group for Change": 1,
+      "Ulster Unionist Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2016-07-18": 2,
+        "2016-07-19": 6,
+        "2016-07-20": 9,
+        "2016-07-21": 11,
+        "2016-09-05": 68,
+        "2016-09-06": 11,
+        "2016-09-07": 4,
+        "2016-09-08": 3,
+        "2016-09-12": 2,
+        "2016-09-13": 1,
+        "2016-09-14": 1,
+        "2016-09-15": 2,
+        "2016-10-10": 11,
+        "2016-10-11": 1,
+        "2016-10-17": 1,
+        "2016-10-19": 1,
+        "2016-10-20": 1,
+        "2016-10-25": 1,
+        "2016-10-26": 1,
+        "2016-11-02": 1,
+        "2016-11-08": 2,
+        "2016-11-15": 1,
+        "2016-12-08": 1,
+        "2017-01-17": 1,
+        "2017-01-19": 1,
+        "2017-01-25": 2,
+        "2017-01-26": 1,
+        "2017-01-30": 4,
+        "2017-02-02": 1,
+        "2017-02-03": 1,
+        "2017-02-06": 1,
+        "2017-02-24": 1,
+        "2017-03-07": 1,
+        "2017-04-18": 1,
+        "2017-04-24": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1966": 1,
+        "1970": 1,
+        "1975": 1,
+        "1979": 2,
+        "1983": 1,
+        "1984": 1,
+        "1986": 1,
+        "1987": 5,
+        "1989": 1,
+        "1992": 5,
+        "1997": 18,
+        "2000": 1,
+        "2001": 18,
+        "2005": 10,
+        "2007": 1,
+        "2010": 24,
+        "2012": 1,
+        "2013": 1,
+        "2015": 61,
+        "2016": 4
+      },
+      "latest": {
+        "1970": 1,
+        "1975": 1,
+        "1979": 2,
+        "1983": 1,
+        "1984": 1,
+        "1986": 1,
+        "1987": 4,
+        "1992": 4,
+        "1997": 13,
+        "2000": 1,
+        "2001": 15,
+        "2005": 10,
+        "2007": 1,
+        "2010": 24,
+        "2012": 1,
+        "2013": 1,
+        "2015": 54,
+        "2016": 3,
+        "2019": 8,
+        "2020": 3,
+        "2021": 1,
+        "2022": 1,
+        "2024": 5,
+        "2025": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 1,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 1
+    },
+    "by_party": {
+      "Labour": 1
+    },
+    "by_date": {
+      "creation": {
+        "2016-10-17": 1
+      },
+      "withdrawal": {
+        "2016-10-17": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1
+      },
+      "latest": {
+        "1970": 1
+      }
+    }
+  },
+  "id": 49595,
+  "title": "STATUTORY MAXIMUM WORKING TEMPERATURE",
+  "text": "That this House notes that workers in the UK lack adequate legal safeguards from working in uncomfortably high temperatures, owing to the lack of a statutory maximum temperature at which employers would have to introduce control measures, such as breaks, access to water or air conditioning; further notes that this would correct an anomaly in current legislation where a legal minimum working temperature exists, but a corresponding upper limit does not exist in statute; appreciates that excessive heat in the workplace is responsible for heat stress and thermal discomfort, and can impact seriously on health, well-being and productivity; recognises that this is a matter of concern for workers in a wide range of workplaces including offices, schools, shops, bakeries, vehicles, trains, call-centres, theatres and construction sites; and calls on the Government to adopt the recommendations of the TUC and joint union Cool It campaign to introduce into law a maximum working temperature of 30 degrees Celsius or 27 degrees Celsius for those doing strenuous work, beyond which employers would have a statutory duty to introduce effective control measures.",
+  "date_tabled": "18-07-2016",
+  "ranking": 10
+}]

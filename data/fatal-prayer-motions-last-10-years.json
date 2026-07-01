@@ -1,0 +1,1319 @@
+[{
+  "supporting": {
+    "total": 187,
+    "backbench": {
+      "total": 102
+    },
+    "frontbench": {
+      "total": 85
+    },
+    "women": {
+      "total": 68
+    },
+    "men": {
+      "total": 119
+    },
+    "by_party": {
+      "Labour": 109,
+      "Scottish National Party": 44,
+      "Independent": 13,
+      "Liberal Democrat": 10,
+      "Democratic Unionist Party": 2,
+      "Non-affiliated": 2,
+      "Plaid Cymru": 2,
+      "Social Democratic & Labour Party": 2,
+      "Conservative": 1,
+      "Green Party": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-02-27": 28,
+        "2017-02-28": 12,
+        "2017-03-01": 18,
+        "2017-03-02": 6,
+        "2017-03-06": 22,
+        "2017-03-07": 15,
+        "2017-03-08": 7,
+        "2017-03-09": 7,
+        "2017-03-13": 11,
+        "2017-03-14": 17,
+        "2017-03-15": 6,
+        "2017-03-16": 7,
+        "2017-03-20": 6,
+        "2017-03-21": 4,
+        "2017-03-22": 1,
+        "2017-03-23": 5,
+        "2017-03-24": 1,
+        "2017-03-27": 3,
+        "2017-03-28": 3,
+        "2017-03-29": 4,
+        "2017-03-30": 4
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1966": 1,
+        "1970": 1,
+        "1979": 1,
+        "1983": 3,
+        "1984": 1,
+        "1986": 1,
+        "1987": 4,
+        "1989": 1,
+        "1992": 5,
+        "1994": 1,
+        "1996": 1,
+        "1997": 17,
+        "1999": 1,
+        "2000": 2,
+        "2001": 16,
+        "2005": 21,
+        "2007": 1,
+        "2010": 31,
+        "2011": 1,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 70,
+        "2016": 4
+      },
+      "latest": {
+        "1970": 1,
+        "1979": 2,
+        "1983": 3,
+        "1984": 1,
+        "1986": 1,
+        "1987": 3,
+        "1992": 4,
+        "1994": 1,
+        "1996": 1,
+        "1997": 13,
+        "1999": 1,
+        "2000": 2,
+        "2001": 12,
+        "2005": 18,
+        "2007": 1,
+        "2010": 31,
+        "2011": 1,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 63,
+        "2016": 3,
+        "2019": 8,
+        "2020": 4,
+        "2021": 1,
+        "2022": 1,
+        "2024": 5,
+        "2025": 2,
+        "2026": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 50240,
+  "title": "SOCIAL SECURITY",
+  "text": "That an humble Address be presented to Her Majesty, praying that the Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I., 2017, No. 194), dated 22 February 2017, a copy of which was laid before this House on 23 February, be annulled.",
+  "date_tabled": "27-02-2017",
+  "ranking": 1
+},
+{
+  "supporting": {
+    "total": 159,
+    "backbench": {
+      "total": 121
+    },
+    "frontbench": {
+      "total": 38
+    },
+    "women": {
+      "total": 77
+    },
+    "men": {
+      "total": 82
+    },
+    "by_party": {
+      "Labour": 87,
+      "Liberal Democrat": 53,
+      "Scottish National Party": 7,
+      "Plaid Cymru": 4,
+      "Green Party": 3,
+      "Independent": 2,
+      "Your Party": 2,
+      "Social Democratic & Labour Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2026-05-28": 1,
+        "2026-06-01": 26,
+        "2026-06-02": 23,
+        "2026-06-03": 25,
+        "2026-06-04": 13,
+        "2026-06-05": 4,
+        "2026-06-08": 10,
+        "2026-06-09": 9,
+        "2026-06-10": 16,
+        "2026-06-11": 4,
+        "2026-06-12": 1,
+        "2026-06-15": 5,
+        "2026-06-16": 2,
+        "2026-06-17": 3,
+        "2026-06-18": 4,
+        "2026-06-22": 2,
+        "2026-06-23": 2,
+        "2026-06-24": 5,
+        "2026-06-25": 1,
+        "2026-06-29": 2,
+        "2026-06-30": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1983": 1,
+        "1987": 1,
+        "1996": 1,
+        "1997": 2,
+        "2001": 2,
+        "2005": 4,
+        "2010": 4,
+        "2015": 11,
+        "2016": 1,
+        "2017": 7,
+        "2019": 18,
+        "2021": 2,
+        "2023": 2,
+        "2024": 101,
+        "2026": 2
+      },
+      "latest": {
+        "1983": 1,
+        "1987": 1,
+        "1996": 1,
+        "1997": 2,
+        "2001": 2,
+        "2005": 3,
+        "2010": 3,
+        "2015": 12,
+        "2016": 1,
+        "2017": 7,
+        "2019": 18,
+        "2021": 2,
+        "2023": 2,
+        "2024": 102,
+        "2026": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 2,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 1
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 2
+    },
+    "by_party": {
+      "Liberal Democrat": 2
+    },
+    "by_date": {
+      "creation": {
+        "2026-06-02": 2
+      },
+      "withdrawal": {
+        "2026-06-02": 2
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1997": 1,
+        "2005": 1
+      },
+      "latest": {
+        "2005": 1,
+        "2024": 1
+      }
+    }
+  },
+  "id": 65938,
+  "title": "Draft Code of Practice on Services, public functions and associations",
+  "text": "That the draft Code of Practice for Services, public functions and associations, a copy of which was laid before this House on 21 May, be disapproved.",
+  "date_tabled": "01-06-2026",
+  "ranking": 2
+},
+{
+  "supporting": {
+    "total": 139,
+    "backbench": {
+      "total": 77
+    },
+    "frontbench": {
+      "total": 62
+    },
+    "women": {
+      "total": 63
+    },
+    "men": {
+      "total": 76
+    },
+    "by_party": {
+      "Labour": 119,
+      "Independent": 11,
+      "Liberal Democrat": 3,
+      "Crossbench": 1,
+      "Green Party": 1,
+      "Plaid Cymru": 1,
+      "Scottish National Party": 1,
+      "The Independent Group for Change": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2018-03-22": 6,
+        "2018-03-26": 2,
+        "2018-03-27": 29,
+        "2018-03-28": 43,
+        "2018-03-29": 11,
+        "2018-04-16": 19,
+        "2018-04-17": 1,
+        "2018-04-18": 7,
+        "2018-04-19": 4,
+        "2018-04-23": 2,
+        "2018-04-24": 1,
+        "2018-04-25": 3,
+        "2018-04-27": 1,
+        "2018-04-30": 2,
+        "2018-05-03": 1,
+        "2018-05-08": 4,
+        "2018-05-09": 1,
+        "2018-05-10": 1,
+        "2018-05-14": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1982": 1,
+        "1983": 3,
+        "1987": 3,
+        "1992": 3,
+        "1994": 1,
+        "1996": 1,
+        "1997": 14,
+        "1999": 1,
+        "2000": 2,
+        "2001": 4,
+        "2005": 9,
+        "2007": 1,
+        "2010": 21,
+        "2011": 2,
+        "2012": 3,
+        "2013": 1,
+        "2014": 2,
+        "2015": 29,
+        "2016": 2,
+        "2017": 35
+      },
+      "latest": {
+        "1970": 1,
+        "1983": 2,
+        "1987": 3,
+        "1992": 3,
+        "1994": 1,
+        "1996": 1,
+        "1997": 8,
+        "1999": 1,
+        "2000": 2,
+        "2001": 3,
+        "2005": 7,
+        "2007": 1,
+        "2010": 19,
+        "2011": 2,
+        "2012": 3,
+        "2013": 1,
+        "2014": 2,
+        "2015": 29,
+        "2016": 2,
+        "2017": 36,
+        "2020": 1,
+        "2021": 1,
+        "2024": 6,
+        "2025": 4
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 1,
+    "backbench": {
+      "total": 1
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 1
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {
+      "Labour": 1
+    },
+    "by_date": {
+      "creation": {
+        "2018-04-16": 1
+      },
+      "withdrawal": {
+        "2018-04-16": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "2017": 1
+      },
+      "latest": {
+        "2017": 1
+      }
+    }
+  },
+  "id": 51582,
+  "title": "CRIMINAL LEGAL AID REMUNERATION",
+  "text": "That the Criminal Legal Aid (Remuneration) (Amendment) Regulations 2018 (S.I., 2018, No. 220), dated 20 February 2018, a copy of which was laid before this House on 23 February, be revoked.",
+  "date_tabled": "22-03-2018",
+  "ranking": 3
+},
+{
+  "supporting": {
+    "total": 138,
+    "backbench": {
+      "total": 65
+    },
+    "frontbench": {
+      "total": 73
+    },
+    "women": {
+      "total": 72
+    },
+    "men": {
+      "total": 66
+    },
+    "by_party": {
+      "Labour": 105,
+      "Independent": 10,
+      "Liberal Democrat": 9,
+      "Scottish National Party": 4,
+      "Plaid Cymru": 3,
+      "Social Democratic & Labour Party": 2,
+      "Alba Party": 1,
+      "Alliance": 1,
+      "Democratic Unionist Party": 1,
+      "Green Party": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2020-06-04": 1,
+        "2020-06-05": 14,
+        "2020-06-06": 2,
+        "2020-06-07": 2,
+        "2020-06-08": 15,
+        "2020-06-09": 6,
+        "2020-06-10": 1,
+        "2020-06-11": 16,
+        "2020-06-15": 9,
+        "2020-06-16": 3,
+        "2020-06-17": 10,
+        "2020-06-23": 2,
+        "2020-06-24": 16,
+        "2020-06-25": 2,
+        "2020-06-29": 3,
+        "2020-07-01": 2,
+        "2020-07-06": 2,
+        "2020-07-07": 5,
+        "2020-07-08": 1,
+        "2020-07-09": 4,
+        "2020-07-10": 1,
+        "2020-07-13": 2,
+        "2020-07-14": 4,
+        "2020-07-15": 1,
+        "2020-07-16": 1,
+        "2020-07-20": 3,
+        "2020-07-22": 2,
+        "2020-09-01": 2,
+        "2020-09-07": 1,
+        "2020-09-28": 1,
+        "2020-11-02": 2,
+        "2020-12-07": 1,
+        "2021-02-11": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1979": 1,
+        "1982": 1,
+        "1983": 2,
+        "1986": 1,
+        "1987": 1,
+        "1994": 2,
+        "1997": 10,
+        "1999": 1,
+        "2000": 2,
+        "2001": 3,
+        "2005": 10,
+        "2007": 1,
+        "2010": 19,
+        "2011": 2,
+        "2012": 1,
+        "2013": 1,
+        "2015": 31,
+        "2016": 3,
+        "2017": 19,
+        "2018": 1,
+        "2019": 26
+      },
+      "latest": {
+        "1979": 1,
+        "1983": 1,
+        "1986": 1,
+        "1987": 1,
+        "1994": 1,
+        "1997": 7,
+        "1999": 1,
+        "2000": 2,
+        "2001": 3,
+        "2005": 7,
+        "2007": 1,
+        "2010": 20,
+        "2011": 2,
+        "2012": 1,
+        "2013": 1,
+        "2015": 30,
+        "2016": 2,
+        "2017": 21,
+        "2018": 1,
+        "2019": 28,
+        "2024": 4,
+        "2025": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 57061,
+  "title": "Legal Aid and Advice",
+  "text": "That an humble Address be presented to Her Majesty, praying that the Civil Legal Aid (Remuneration) (Amendment) (Coronavirus) Regulations 2020 (S.I., 2020, No. 515), dated 15 May 2020, a copy of which was laid before this House on 18 May 2020, be annulled.",
+  "date_tabled": "04-06-2020",
+  "ranking": 4
+},
+{
+  "supporting": {
+    "total": 130,
+    "backbench": {
+      "total": 81
+    },
+    "frontbench": {
+      "total": 49
+    },
+    "women": {
+      "total": 43
+    },
+    "men": {
+      "total": 87
+    },
+    "by_party": {
+      "Labour": 84,
+      "Scottish National Party": 14,
+      "Independent": 13,
+      "Liberal Democrat": 6,
+      "Democratic Unionist Party": 3,
+      "Plaid Cymru": 2,
+      "Social Democratic & Labour Party": 2,
+      "Conservative": 1,
+      "Crossbench": 1,
+      "Green Party": 1,
+      "Non-affiliated": 1,
+      "The Independent Group for Change": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2016-10-24": 8,
+        "2016-10-25": 6,
+        "2016-10-26": 12,
+        "2016-10-27": 8,
+        "2016-10-28": 5,
+        "2016-10-31": 14,
+        "2016-11-01": 2,
+        "2016-11-02": 10,
+        "2016-11-03": 3,
+        "2016-11-04": 3,
+        "2016-11-07": 6,
+        "2016-11-08": 8,
+        "2016-11-14": 10,
+        "2016-11-15": 4,
+        "2016-11-16": 1,
+        "2016-11-17": 2,
+        "2016-11-18": 2,
+        "2016-11-21": 4,
+        "2016-11-23": 3,
+        "2016-11-24": 2,
+        "2016-11-25": 1,
+        "2016-11-28": 1,
+        "2016-11-30": 2,
+        "2016-12-01": 1,
+        "2016-12-02": 1,
+        "2016-12-05": 1,
+        "2016-12-12": 2,
+        "2016-12-14": 1,
+        "2016-12-15": 1,
+        "2016-12-16": 1,
+        "2017-01-10": 1,
+        "2017-01-11": 1,
+        "2017-01-31": 1,
+        "2017-02-01": 1,
+        "2017-02-27": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1979": 2,
+        "1983": 3,
+        "1986": 1,
+        "1987": 4,
+        "1989": 1,
+        "1992": 7,
+        "1994": 1,
+        "1996": 1,
+        "1997": 15,
+        "1999": 1,
+        "2000": 2,
+        "2001": 10,
+        "2004": 1,
+        "2005": 15,
+        "2007": 1,
+        "2010": 23,
+        "2011": 2,
+        "2012": 1,
+        "2015": 38
+      },
+      "latest": {
+        "1970": 1,
+        "1979": 1,
+        "1983": 3,
+        "1986": 1,
+        "1987": 4,
+        "1992": 6,
+        "1994": 1,
+        "1996": 1,
+        "1997": 12,
+        "1999": 1,
+        "2000": 2,
+        "2001": 9,
+        "2004": 1,
+        "2005": 13,
+        "2007": 1,
+        "2010": 21,
+        "2011": 2,
+        "2012": 1,
+        "2015": 34,
+        "2019": 3,
+        "2020": 3,
+        "2021": 2,
+        "2022": 1,
+        "2024": 5,
+        "2025": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 49838,
+  "title": "PUBLIC SERVICE PENSIONS",
+  "text": "That an humble Address be presented to Her Majesty, praying that the Local Government Pension Scheme (Management and Investment of Funds) Regulations 2016 (S.I., 2016, No. 946), dated 21 September 2016, a copy of which was laid before this House on 23  September 2016, be annulled.",
+  "date_tabled": "24-10-2016",
+  "ranking": 5
+},
+{
+  "supporting": {
+    "total": 118,
+    "backbench": {
+      "total": 76
+    },
+    "frontbench": {
+      "total": 42
+    },
+    "women": {
+      "total": 50
+    },
+    "men": {
+      "total": 68
+    },
+    "by_party": {
+      "Labour": 79,
+      "Scottish National Party": 19,
+      "Independent": 9,
+      "Liberal Democrat": 6,
+      "The Independent Group for Change": 2,
+      "Crossbench": 1,
+      "Democratic Unionist Party": 1,
+      "Green Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2018-04-25": 6,
+        "2018-04-26": 1,
+        "2018-04-27": 2,
+        "2018-04-30": 1,
+        "2018-05-01": 29,
+        "2018-05-02": 49,
+        "2018-05-03": 6,
+        "2018-05-08": 16,
+        "2018-05-09": 1,
+        "2018-05-14": 1,
+        "2018-05-21": 1,
+        "2018-05-22": 2,
+        "2018-05-23": 1,
+        "2018-06-04": 2
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1983": 1,
+        "1986": 1,
+        "1987": 2,
+        "1992": 4,
+        "1994": 1,
+        "1997": 17,
+        "1999": 1,
+        "2000": 1,
+        "2001": 6,
+        "2005": 7,
+        "2007": 1,
+        "2010": 19,
+        "2012": 1,
+        "2015": 31,
+        "2016": 2,
+        "2017": 22
+      },
+      "latest": {
+        "1970": 1,
+        "1983": 1,
+        "1986": 1,
+        "1987": 2,
+        "1992": 3,
+        "1994": 1,
+        "1997": 11,
+        "1999": 1,
+        "2000": 1,
+        "2001": 5,
+        "2005": 6,
+        "2007": 1,
+        "2010": 17,
+        "2012": 1,
+        "2015": 30,
+        "2016": 2,
+        "2017": 23,
+        "2020": 1,
+        "2021": 1,
+        "2022": 2,
+        "2024": 5,
+        "2025": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 51671,
+  "title": "IMMIGRATION",
+  "text": "That an humble Address be presented to Her Majesty, praying that the Immigration (Guidance on Detention of Vulnerable Persons) Regulations 2018 (S.I., 2018, No. 410), dated 22 March 2018, a copy of which was laid before this House on 27 March, be annulled.",
+  "date_tabled": "25-04-2018",
+  "ranking": 6
+},
+{
+  "supporting": {
+    "total": 114,
+    "backbench": {
+      "total": 72
+    },
+    "frontbench": {
+      "total": 42
+    },
+    "women": {
+      "total": 47
+    },
+    "men": {
+      "total": 67
+    },
+    "by_party": {
+      "Labour": 75,
+      "Scottish National Party": 19,
+      "Independent": 9,
+      "Liberal Democrat": 6,
+      "The Independent Group for Change": 2,
+      "Crossbench": 1,
+      "Democratic Unionist Party": 1,
+      "Green Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2018-04-25": 6,
+        "2018-04-26": 1,
+        "2018-04-27": 2,
+        "2018-04-30": 1,
+        "2018-05-01": 25,
+        "2018-05-02": 49,
+        "2018-05-03": 7,
+        "2018-05-08": 16,
+        "2018-05-09": 1,
+        "2018-05-14": 1,
+        "2018-05-21": 1,
+        "2018-05-22": 1,
+        "2018-05-23": 1,
+        "2018-06-04": 2
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1983": 1,
+        "1987": 2,
+        "1992": 4,
+        "1994": 1,
+        "1997": 15,
+        "1999": 1,
+        "2000": 1,
+        "2001": 5,
+        "2005": 7,
+        "2007": 1,
+        "2010": 18,
+        "2015": 31,
+        "2016": 2,
+        "2017": 24
+      },
+      "latest": {
+        "1970": 1,
+        "1983": 1,
+        "1987": 2,
+        "1992": 3,
+        "1994": 1,
+        "1997": 9,
+        "1999": 1,
+        "2000": 1,
+        "2001": 4,
+        "2005": 6,
+        "2007": 1,
+        "2010": 16,
+        "2015": 30,
+        "2016": 2,
+        "2017": 25,
+        "2020": 1,
+        "2021": 1,
+        "2022": 2,
+        "2024": 5,
+        "2025": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 51673,
+  "title": "IMMIGRATION",
+  "text": "That an humble Address be presented to Her Majesty, praying that the Detention Centre (Amendment) Rules 2018 (S.I., 2018, No. 411), dated 22 March 2018, a copy of which was laid before this House on 27 March, be annulled.",
+  "date_tabled": "25-04-2018",
+  "ranking": 7
+},
+{
+  "supporting": {
+    "total": 105,
+    "backbench": {
+      "total": 45
+    },
+    "frontbench": {
+      "total": 60
+    },
+    "women": {
+      "total": 38
+    },
+    "men": {
+      "total": 67
+    },
+    "by_party": {
+      "Scottish National Party": 46,
+      "Labour": 36,
+      "Independent": 10,
+      "Democratic Unionist Party": 7,
+      "Conservative": 1,
+      "Green Party": 1,
+      "Liberal Democrat": 1,
+      "Plaid Cymru": 1,
+      "Social Democratic & Labour Party": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-03-15": 30,
+        "2017-03-16": 8,
+        "2017-03-20": 14,
+        "2017-03-21": 4,
+        "2017-03-22": 2,
+        "2017-03-23": 5,
+        "2017-03-24": 5,
+        "2017-03-27": 4,
+        "2017-03-28": 2,
+        "2017-03-29": 13,
+        "2017-03-30": 4,
+        "2017-04-18": 7,
+        "2017-04-19": 7
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1983": 1,
+        "1984": 1,
+        "1986": 1,
+        "1987": 3,
+        "1992": 3,
+        "1994": 1,
+        "1996": 1,
+        "1997": 3,
+        "2000": 1,
+        "2001": 6,
+        "2005": 8,
+        "2007": 1,
+        "2010": 13,
+        "2011": 1,
+        "2012": 1,
+        "2015": 58,
+        "2016": 1
+      },
+      "latest": {
+        "1970": 1,
+        "1983": 1,
+        "1984": 1,
+        "1986": 1,
+        "1987": 2,
+        "1992": 3,
+        "1994": 1,
+        "1996": 1,
+        "1997": 3,
+        "2000": 1,
+        "2001": 5,
+        "2005": 7,
+        "2007": 1,
+        "2010": 12,
+        "2011": 1,
+        "2012": 1,
+        "2015": 53,
+        "2016": 1,
+        "2019": 5,
+        "2020": 1,
+        "2022": 1,
+        "2024": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 50333,
+  "title": "TAX CREDITS",
+  "text": "That an humble Address be presented to Her Majesty, praying that the Child Tax Credit (Amendment) Regulations 2017 (S.I., 2017, No. 387), dated 14 March 2017, a copy of which was laid before this House on 15 March, be annulled.",
+  "date_tabled": "15-03-2017",
+  "ranking": 8
+},
+{
+  "supporting": {
+    "total": 97,
+    "backbench": {
+      "total": 49
+    },
+    "frontbench": {
+      "total": 48
+    },
+    "women": {
+      "total": 32
+    },
+    "men": {
+      "total": 65
+    },
+    "by_party": {
+      "Labour": 48,
+      "Scottish National Party": 33,
+      "Independent": 7,
+      "Conservative": 2,
+      "Democratic Unionist Party": 1,
+      "Green Party": 1,
+      "Liberal Democrat": 1,
+      "Non-affiliated": 1,
+      "Plaid Cymru": 1,
+      "The Independent Group for Change": 1,
+      "Your Party": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-07-11": 6,
+        "2017-07-13": 3,
+        "2017-07-17": 2,
+        "2017-07-18": 3,
+        "2017-07-19": 37,
+        "2017-07-20": 1,
+        "2017-09-05": 21,
+        "2017-09-06": 3,
+        "2017-09-07": 1,
+        "2017-09-11": 5,
+        "2017-09-12": 2,
+        "2017-10-09": 3,
+        "2017-10-11": 1,
+        "2017-10-12": 1,
+        "2017-10-17": 1,
+        "2017-11-30": 1,
+        "2017-12-11": 1,
+        "2017-12-12": 1,
+        "2017-12-13": 1,
+        "2017-12-19": 1,
+        "2018-01-22": 1,
+        "2018-02-20": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1975": 1,
+        "1976": 1,
+        "1982": 1,
+        "1983": 2,
+        "1986": 1,
+        "1987": 2,
+        "1989": 1,
+        "1992": 3,
+        "1997": 6,
+        "2000": 1,
+        "2001": 5,
+        "2005": 4,
+        "2007": 2,
+        "2010": 8,
+        "2011": 1,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 41,
+        "2017": 13
+      },
+      "latest": {
+        "1970": 1,
+        "1975": 1,
+        "1976": 1,
+        "1983": 2,
+        "1986": 1,
+        "1987": 2,
+        "1992": 3,
+        "1997": 5,
+        "2000": 1,
+        "2001": 4,
+        "2005": 4,
+        "2007": 1,
+        "2010": 7,
+        "2011": 1,
+        "2012": 1,
+        "2013": 1,
+        "2014": 1,
+        "2015": 40,
+        "2017": 15,
+        "2020": 1,
+        "2022": 1,
+        "2024": 2,
+        "2025": 1
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 1,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 1
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 1
+    },
+    "by_party": {
+      "Labour": 1
+    },
+    "by_date": {
+      "creation": {
+        "2017-09-06": 1
+      },
+      "withdrawal": {
+        "2017-09-06": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "2001": 1
+      },
+      "latest": {
+        "2025": 1
+      }
+    }
+  },
+  "id": 50620,
+  "title": "SOCIAL SECURITY",
+  "text": "That the Social Security Benefits Up-rating Regulations 2017 (S.I., 2017, No. 349), dated 9 March 2017, a copy of which was laid before this House on 13 March in the last Session of Parliament, be revoked.",
+  "date_tabled": "11-07-2017",
+  "ranking": 9
+},
+{
+  "supporting": {
+    "total": 97,
+    "backbench": {
+      "total": 54
+    },
+    "frontbench": {
+      "total": 43
+    },
+    "women": {
+      "total": 31
+    },
+    "men": {
+      "total": 66
+    },
+    "by_party": {
+      "Scottish National Party": 51,
+      "Labour": 17,
+      "Independent": 8,
+      "Conservative": 7,
+      "Democratic Unionist Party": 6,
+      "Plaid Cymru": 2,
+      "Social Democratic & Labour Party": 2,
+      "Ulster Unionist Party": 2,
+      "Green Party": 1,
+      "Non-affiliated": 1
+    },
+    "by_date": {
+      "creation": {
+        "2016-03-09": 1,
+        "2016-03-10": 36,
+        "2016-03-11": 7,
+        "2016-03-14": 6,
+        "2016-03-15": 4,
+        "2016-03-16": 24,
+        "2016-03-17": 2,
+        "2016-03-21": 8,
+        "2016-03-22": 1,
+        "2016-03-23": 3,
+        "2016-03-24": 1,
+        "2016-04-11": 3,
+        "2016-04-18": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1975": 1,
+        "1979": 1,
+        "1983": 2,
+        "1986": 1,
+        "1987": 6,
+        "1989": 1,
+        "1992": 2,
+        "1997": 2,
+        "2001": 7,
+        "2005": 7,
+        "2010": 9,
+        "2015": 57
+      },
+      "latest": {
+        "1970": 1,
+        "1975": 1,
+        "1979": 1,
+        "1983": 1,
+        "1986": 1,
+        "1987": 4,
+        "1992": 2,
+        "1997": 3,
+        "2001": 6,
+        "2005": 7,
+        "2008": 1,
+        "2010": 8,
+        "2015": 51,
+        "2019": 6,
+        "2020": 2,
+        "2024": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 49026,
+  "title": "SOCIAL SECURITY",
+  "text": "That an humble Address be presented to Her Majesty, praying that the Social Security Benefits Up-rating Regulations 2016 (S.I., 2016, No. 246), dated 25 February 2016, a copy of which was laid before this House on 1 March 2016, be annulled.",
+  "date_tabled": "09-03-2016",
+  "ranking": 10
+}]
