@@ -3,7 +3,7 @@
 <svg height="90%" width="100%" xmlns="http://www.w3.org/2000/svg">
 <svg height="5%" width="100%" xmlns="http://www.w3.org/2000/svg">
 <text dominant-baseline="middle" fill="#707070" font-family="sans-serif" font-size="30px" font-weight="bold" text-anchor="middle" x="50%" y="50%">
-EDM 240: Supporting signatures (per party) over time in days
+EDM 240: Supporting signatures (per party) over date signed as time in days
 </text>
 </svg>
 <svg height="87.5%" width="100%" xmlns="http://www.w3.org/2000/svg" y="5%">
@@ -123,10 +123,10 @@ EDM 240: Supporting signatures (per party) over time in days
 </svg>
 <svg height="5%" preserveAspectRatio="none" width="100%" xmlns="http://www.w3.org/2000/svg" y="95%">
 <text dominant-baseline="middle" fill="#707070" font-family="sans-serif" font-size="28px" font-weight="bold" text-anchor="start" x="0.75%" y="62.5%">
-28-05-2026
+28/05/2026
 </text>
 <text dominant-baseline="middle" fill="#707070" font-family="sans-serif" font-size="28px" font-weight="bold" text-anchor="end" x="99.25%" y="62.5%">
-30-06-2026
+30/06/2026
 </text>
 </svg>
 </svg>

@@ -1,4 +1,4 @@
-{
+[{
   "supporting": {
     "total": 159,
     "backbench": {
@@ -124,5 +124,6 @@
   "id": 65938,
   "title": "Draft Code of Practice on Services, public functions and associations",
   "text": "That the draft Code of Practice for Services, public functions and associations, a copy of which was laid before this House on 21 May, be disapproved.",
-  "date_tabled": "01-06-2026"
-}
+  "date_tabled": "01/06/2026",
+  "ranking": 1
+}]
