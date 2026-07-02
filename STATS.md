@@ -86,7 +86,7 @@ Extra data for the top 10 Early Day Motions of this subset can be found at: <a>h
 <li>
 Of <b>60,828</b> Early Day Motions, <b>2,035</b> Early Day Motions have been found to be Fatal Prayer Motions.<br>
 Of those <b>2,035</b> Fatal Prayer Motions, EDM 240 has the 7th most supporting signatures.<br>
-Extra data for the top 10 Early Day Motions of this subset can be found at: <a>https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions.json</a>.<br>
+Extra data for the top 10 Early Day Motions of this subset can be found at: <a>https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-all.json</a>.<br>
 </li>
 </br>
 
