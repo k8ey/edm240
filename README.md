@@ -15,6 +15,10 @@ Graphs can be found in the [graphs](graphs) folder, some of which are listed bel
 
 ![](graphs/edm240-stacked-per-party.png)
 
+![](graphs/fatal-prayer-motions-last-30-years.png)
+
+![](graphs/edms-last-10-years.png)
+
 ## Data
 
 The source code and dataset used to obtain these statistics are available at: [https://github.com/k8ey/edmdata](https://github.com/k8ey/edmdata).
