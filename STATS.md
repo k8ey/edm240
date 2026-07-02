@@ -1,19 +1,19 @@
 <h1>Statistics for EDM 240 (tabled 01/06/2026)</h1>
 
-Data as of <u>01/07/2026</u>, using the <a href="https://developer.parliament.uk">https://developer.parliament.uk</a> API, licensed under the Open Parliament Licence v3.0.<br/>
-The Open Parliament Licence v3.0 can be found at: <a href="https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence">https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/</a>.<br/>
-This dataset currently holds <b>60,828</b> Early Day Motions from <u>21/11/1989</u> to <u>01/07/2026</u>.<br/>
+Data as of <u>01/07/2026</u>, using the <a>https://developer.parliament.uk</a> API, licensed under the Open Parliament Licence v3.0.<br>
+The Open Parliament Licence v3.0 can be found at: <a>https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence</a>.<br>
+This dataset currently holds <b>60,828</b> Early Day Motions from <u>21/11/1989</u> to <u>01/07/2026</u>.<br>
 
-EDM 240 can be found at: <a href="https://edm.parliament.uk/early-day-motion/65938">https://edm.parliament.uk/early-day-motion/65938</a>.<br/>
+EDM 240 can be found at: <a>https://edm.parliament.uk/early-day-motion/65938</a>.<br>
 
-This file is formatted with HTML, and is intentionally simple styling wise.<br/>
-This is done so that anyone can copy the statistics as plaintext, as is rendered in the GitHub UI, or as raw HTML for use where HTML is accepted.<br/>
+This file is formatted with HTML, and is intentionally simple styling wise.<br>
+This is done so that anyone can copy the statistics as plaintext, as is rendered in the GitHub UI, or as raw HTML for use where HTML is accepted.<br>
 
-More information can be found at <a href="https://github.com/k8ey/edm240">https://github.com/k8ey/edm240</a>.<br/>
+More information can be found at <a>https://github.com/k8ey/edm240</a>.<br>
 
 <h2>EDM 240 Statistics</h2>
 
-Total supporting signatures: <b>159</b><br/>
+Total supporting signatures: <b>159</b><br>
 
 Supporting signatures by bench:
 <ul>
@@ -53,26 +53,30 @@ Supporting signatures by party:
 </li>
 </ul>
 
-A stacked graph of supporting signatures per party over time, can be found at: <a href="https://github.com/k8ey/edm240/blob/main/graphs/edm240-stacked-per-party.png">https://github.com/k8ey/edm240/blob/main/graphs/edm240-stacked-per-party.png</a><br/>
+A stacked graph of supporting signatures per party over time, can be found at: <a>https://github.com/k8ey/edm240/blob/main/graphs/edm240-stacked-per-party.png</a>.<br>
 
-Extra data can also be found at: <a href="https://github.com/k8ey/edm240/blob/main/data/edm240.json">https://github.com/k8ey/edm240/blob/main/data/edm240.json</a><br/>
+Extra data can also be found at: <a>https://github.com/k8ey/edm240/blob/main/data/edm240.json</a>.<br>
 
 <h2>Early Day Motion Dataset Statistics</h2>
 
 <ul>
 <li>
-Of <b>60,828</b> Early Day Motions, <b>7,915</b> Early Day Motions were tabled in the last 5 years (since <u>01/01/2021</u>).<br/>
-Of those <b>7,915</b> Early Day Motions, EDM 240 has the most supporting signatures.<br/>
-This can also be seen at: <a href="https://edm.parliament.uk/?Term=&TabledFrom=01%2F01%2F2021&TabledTo=01%2F07%2F2026&IncludeSponsoredByMember=true&IsPrayer=false&IncludeWithdrawn=true&OrderBy=SignatureCountDesc&ShowAdvanced=true">https://edm.parliament.uk/?Term=&TabledFrom=01%2F01%2F2021&TabledTo=01%2F07%2F2026&IncludeSponsoredByMember=true&IsPrayer=false&IncludeWithdrawn=true&OrderBy=SignatureCountDesc&ShowAdvanced=true</a>.<br/>
-Extra data for the top 10 Early Day Motions of this subset can be found at: <a href="https://github.com/k8ey/edm240/blob/main/data/edms-last-5-years.json">https://github.com/k8ey/edm240/blob/main/data/edms-last-5-years.json</a>.<br/>
+<p>
+Of <b>60,828</b> Early Day Motions, <b>7,915</b> Early Day Motions were tabled in the last 5 years (since <u>01/01/2021</u>).<br>
+Of those <b>7,915</b> Early Day Motions, EDM 240 has the most supporting signatures.<br>
+This can also be seen at: <a>https://edm.parliament.uk/?Term=&TabledFrom=01%2F01%2F2021&TabledTo=01%2F07%2F2026&IncludeSponsoredByMember=true&IsPrayer=false&IncludeWithdrawn=true&OrderBy=SignatureCountDesc&ShowAdvanced=true</a>.<br>
+Extra data for the top 10 Early Day Motions of this subset can be found at: <a>https://github.com/k8ey/edm240/blob/main/data/edms-last-5-years.json</a>.<br>
+</p>
 </li>
-<br/>
+<br>
 
 <li>
-Of <b>60,828</b> Early Day Motions, <b>13,897</b> Early Day Motions were tabled in the last 10 years (since <u>01/01/2016</u>).<br/>
-Of those <b>13,897</b> Early Day Motions, EDM 240 has the 9th most supporting signatures.<br/>
-This can also be seen at: <a href="https://edm.parliament.uk/?Term=&TabledFrom=01%2F01%2F2016&TabledTo=01%2F07%2F2026&IncludeSponsoredByMember=true&IsPrayer=false&IncludeWithdrawn=true&OrderBy=SignatureCountDesc&ShowAdvanced=true">https://edm.parliament.uk/?Term=&TabledFrom=01%2F01%2F2016&TabledTo=01%2F07%2F2026&IncludeSponsoredByMember=true&IsPrayer=false&IncludeWithdrawn=true&OrderBy=SignatureCountDesc&ShowAdvanced=true</a>.<br/>
-Extra data for the top 10 Early Day Motions of this subset can be found at: <a href="https://github.com/k8ey/edm240/blob/main/data/edms-last-10-years.json">https://github.com/k8ey/edm240/blob/main/data/edms-last-10-years.json</a>.<br/>
+<p>
+Of <b>60,828</b> Early Day Motions, <b>13,897</b> Early Day Motions were tabled in the last 10 years (since <u>01/01/2016</u>).<br>
+Of those <b>13,897</b> Early Day Motions, EDM 240 has the 9th most supporting signatures.<br>
+This can also be seen at: <a>https://edm.parliament.uk/?Term=&TabledFrom=01%2F01%2F2016&TabledTo=01%2F07%2F2026&IncludeSponsoredByMember=true&IsPrayer=false&IncludeWithdrawn=true&OrderBy=SignatureCountDesc&ShowAdvanced=true</a>.<br>
+Extra data for the top 10 Early Day Motions of this subset can be found at: <a>https://github.com/k8ey/edm240/blob/main/data/edms-last-10-years.json</a>.<br>
+</p>
 </li>
 </ul>
 
@@ -80,29 +84,29 @@ Extra data for the top 10 Early Day Motions of this subset can be found at: <a h
 
 <ul>
 <li>
-Of <b>60,828</b> Early Day Motions, <b>2,035</b> Early Day Motions have been found to be Fatal Prayer Motions.<br/>
-Of those <b>2,035</b> Fatal Prayer Motions, EDM 240 has the 7th most supporting signatures.<br/>
-Extra data for the top 10 Early Day Motions of this subset can be found at: <a href="https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions.json">https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions.json</a>.<br/>
+Of <b>60,828</b> Early Day Motions, <b>2,035</b> Early Day Motions have been found to be Fatal Prayer Motions.<br>
+Of those <b>2,035</b> Fatal Prayer Motions, EDM 240 has the 7th most supporting signatures.<br>
+Extra data for the top 10 Early Day Motions of this subset can be found at: <a>https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions.json</a>.<br>
 </li>
 </br>
 
 <li>
-Of <b>2,035</b> Fatal Prayer Motions, <b>159</b> were tabled in the last 10 years (since <u>01/01/2016</u>).<br/>
-Of those <b>159</b> Fatal Prayer Motions, EDM 240 has the 2nd most supporting signatures.<br/>
-Extra data for the top 10 Early Day Motions of this subset can be found at: <a href="https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-last-10-years.json">https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-last-10-years.json</a>.<br/>
+Of <b>2,035</b> Fatal Prayer Motions, <b>159</b> were tabled in the last 10 years (since <u>01/01/2016</u>).<br>
+Of those <b>159</b> Fatal Prayer Motions, EDM 240 has the 2nd most supporting signatures.<br>
+Extra data for the top 10 Early Day Motions of this subset can be found at: <a>https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-last-10-years.json</a>.<br>
 </li>
 </br>
 
 <li>
-Of <b>2,035</b> Fatal Prayer Motions, <b>369</b> were tabled in the last 20 years (since <u>01/01/2006</u>).<br/>
-Of those <b>369</b> Fatal Prayer Motions, EDM 240 has the 4th most supporting signatures.<br/>
-Extra data for the top 10 Early Day Motions of this subset can be found at: <a href="https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-last-20-years.json">https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-last-20-years.json</a>.<br/>
+Of <b>2,035</b> Fatal Prayer Motions, <b>369</b> were tabled in the last 20 years (since <u>01/01/2006</u>).<br>
+Of those <b>369</b> Fatal Prayer Motions, EDM 240 has the 4th most supporting signatures.<br>
+Extra data for the top 10 Early Day Motions of this subset can be found at: <a>https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-last-20-years.json</a>.<br>
 </li>
 </br>
 
 <li>
-Of <b>2,035</b> Fatal Prayer Motions, <b>1094</b> were tabled in the last 30 years (since <u>01/01/1996</u>).<br/>
-Of those <b>1094</b> Fatal Prayer Motions, EDM 240 has the 6th most supporting signatures.<br/>
-Extra data for the top 10 Early Day Motions of this subset can be found at: <a href="https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-last-30-years.json">https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-last-30-years.json</a>.<br/>
+Of <b>2,035</b> Fatal Prayer Motions, <b>1094</b> were tabled in the last 30 years (since <u>01/01/1996</u>).<br>
+Of those <b>1094</b> Fatal Prayer Motions, EDM 240 has the 6th most supporting signatures.<br>
+Extra data for the top 10 Early Day Motions of this subset can be found at: <a>https://github.com/k8ey/edm240/blob/main/data/fatal-prayer-motions-last-30-years.json</a>.<br>
 </ul>
 </li>
