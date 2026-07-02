@@ -6,7 +6,7 @@ A collection of statistics, data, and graphs about EDM 240 (tabled 01/06/2026).
 
 Statistics can be found in the [STATS.md](STATS.md) file.
 
-[STATS.md](STATS.md) is formatted with HTML, and is intentionally simple styling wise.<br/>
+[STATS.md](STATS.md) is formatted with HTML, and is intentionally simple styling wise.<br>
 This is done so that anyone can copy the statistics as plaintext, as is rendered in the GitHub UI, or as raw HTML for use where HTML is accepted.
 
 ## Graphs
