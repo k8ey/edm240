@@ -143,21 +143,21 @@
 },
 {
   "supporting": {
-    "total": 159,
+    "total": 161,
     "backbench": {
-      "total": 121
+      "total": 123
     },
     "frontbench": {
       "total": 38
     },
     "women": {
-      "total": 77
+      "total": 79
     },
     "men": {
       "total": 82
     },
     "by_party": {
-      "Labour": 87,
+      "Labour": 89,
       "Liberal Democrat": 53,
       "Scottish National Party": 7,
       "Plaid Cymru": 4,
@@ -188,7 +188,8 @@
         "2026-06-24": 5,
         "2026-06-25": 1,
         "2026-06-29": 2,
-        "2026-06-30": 1
+        "2026-06-30": 1,
+        "2026-07-02": 2
       }
     },
     "by_membership": {
@@ -199,14 +200,14 @@
         "1997": 2,
         "2001": 2,
         "2005": 4,
-        "2010": 4,
+        "2010": 5,
         "2015": 11,
         "2016": 1,
         "2017": 7,
         "2019": 18,
         "2021": 2,
         "2023": 2,
-        "2024": 101,
+        "2024": 102,
         "2026": 2
       },
       "latest": {
@@ -216,14 +217,14 @@
         "1997": 2,
         "2001": 2,
         "2005": 3,
-        "2010": 3,
+        "2010": 4,
         "2015": 12,
         "2016": 1,
         "2017": 7,
         "2019": 18,
         "2021": 2,
         "2023": 2,
-        "2024": 102,
+        "2024": 103,
         "2026": 2
       }
     }
@@ -1066,6 +1067,116 @@
   "supporting": {
     "total": 97,
     "backbench": {
+      "total": 54
+    },
+    "frontbench": {
+      "total": 43
+    },
+    "women": {
+      "total": 31
+    },
+    "men": {
+      "total": 66
+    },
+    "by_party": {
+      "Scottish National Party": 51,
+      "Labour": 17,
+      "Independent": 8,
+      "Conservative": 7,
+      "Democratic Unionist Party": 6,
+      "Plaid Cymru": 2,
+      "Social Democratic & Labour Party": 2,
+      "Ulster Unionist Party": 2,
+      "Green Party": 1,
+      "Non-affiliated": 1
+    },
+    "by_date": {
+      "creation": {
+        "2016-03-09": 1,
+        "2016-03-10": 36,
+        "2016-03-11": 7,
+        "2016-03-14": 6,
+        "2016-03-15": 4,
+        "2016-03-16": 24,
+        "2016-03-17": 2,
+        "2016-03-21": 8,
+        "2016-03-22": 1,
+        "2016-03-23": 3,
+        "2016-03-24": 1,
+        "2016-04-11": 3,
+        "2016-04-18": 1
+      }
+    },
+    "by_membership": {
+      "initial": {
+        "1970": 1,
+        "1975": 1,
+        "1979": 1,
+        "1983": 2,
+        "1986": 1,
+        "1987": 6,
+        "1989": 1,
+        "1992": 2,
+        "1997": 2,
+        "2001": 7,
+        "2005": 7,
+        "2010": 9,
+        "2015": 57
+      },
+      "latest": {
+        "1970": 1,
+        "1975": 1,
+        "1979": 1,
+        "1983": 1,
+        "1986": 1,
+        "1987": 4,
+        "1992": 2,
+        "1997": 3,
+        "2001": 6,
+        "2005": 7,
+        "2008": 1,
+        "2010": 8,
+        "2015": 51,
+        "2019": 6,
+        "2020": 2,
+        "2024": 2
+      }
+    }
+  },
+  "withdrawn": {
+    "total": 0,
+    "backbench": {
+      "total": 0
+    },
+    "frontbench": {
+      "total": 0
+    },
+    "women": {
+      "total": 0
+    },
+    "men": {
+      "total": 0
+    },
+    "by_party": {},
+    "by_date": {
+      "creation": {},
+      "withdrawal": {}
+    },
+    "by_membership": {
+      "initial": {},
+      "latest": {}
+    }
+  },
+  "id": 49026,
+  "title": "SOCIAL SECURITY",
+  "text": "That an humble Address be presented to Her Majesty, praying that the Social Security Benefits Up-rating Regulations 2016 (S.I., 2016, No. 246), dated 25 February 2016, a copy of which was laid before this House on 1 March 2016, be annulled.",
+  "date_tabled": "09/03/2016",
+  "ranking": 9
+},
+{
+  "supporting": {
+    "total": 97,
+    "backbench": {
       "total": 49
     },
     "frontbench": {
@@ -1205,115 +1316,5 @@
   "title": "SOCIAL SECURITY",
   "text": "That the Social Security Benefits Up-rating Regulations 2017 (S.I., 2017, No. 349), dated 9 March 2017, a copy of which was laid before this House on 13 March in the last Session of Parliament, be revoked.",
   "date_tabled": "11/07/2017",
-  "ranking": 9
-},
-{
-  "supporting": {
-    "total": 97,
-    "backbench": {
-      "total": 54
-    },
-    "frontbench": {
-      "total": 43
-    },
-    "women": {
-      "total": 31
-    },
-    "men": {
-      "total": 66
-    },
-    "by_party": {
-      "Scottish National Party": 51,
-      "Labour": 17,
-      "Independent": 8,
-      "Conservative": 7,
-      "Democratic Unionist Party": 6,
-      "Plaid Cymru": 2,
-      "Social Democratic & Labour Party": 2,
-      "Ulster Unionist Party": 2,
-      "Green Party": 1,
-      "Non-affiliated": 1
-    },
-    "by_date": {
-      "creation": {
-        "2016-03-09": 1,
-        "2016-03-10": 36,
-        "2016-03-11": 7,
-        "2016-03-14": 6,
-        "2016-03-15": 4,
-        "2016-03-16": 24,
-        "2016-03-17": 2,
-        "2016-03-21": 8,
-        "2016-03-22": 1,
-        "2016-03-23": 3,
-        "2016-03-24": 1,
-        "2016-04-11": 3,
-        "2016-04-18": 1
-      }
-    },
-    "by_membership": {
-      "initial": {
-        "1970": 1,
-        "1975": 1,
-        "1979": 1,
-        "1983": 2,
-        "1986": 1,
-        "1987": 6,
-        "1989": 1,
-        "1992": 2,
-        "1997": 2,
-        "2001": 7,
-        "2005": 7,
-        "2010": 9,
-        "2015": 57
-      },
-      "latest": {
-        "1970": 1,
-        "1975": 1,
-        "1979": 1,
-        "1983": 1,
-        "1986": 1,
-        "1987": 4,
-        "1992": 2,
-        "1997": 3,
-        "2001": 6,
-        "2005": 7,
-        "2008": 1,
-        "2010": 8,
-        "2015": 51,
-        "2019": 6,
-        "2020": 2,
-        "2024": 2
-      }
-    }
-  },
-  "withdrawn": {
-    "total": 0,
-    "backbench": {
-      "total": 0
-    },
-    "frontbench": {
-      "total": 0
-    },
-    "women": {
-      "total": 0
-    },
-    "men": {
-      "total": 0
-    },
-    "by_party": {},
-    "by_date": {
-      "creation": {},
-      "withdrawal": {}
-    },
-    "by_membership": {
-      "initial": {},
-      "latest": {}
-    }
-  },
-  "id": 49026,
-  "title": "SOCIAL SECURITY",
-  "text": "That an humble Address be presented to Her Majesty, praying that the Social Security Benefits Up-rating Regulations 2016 (S.I., 2016, No. 246), dated 25 February 2016, a copy of which was laid before this House on 1 March 2016, be annulled.",
-  "date_tabled": "09/03/2016",
   "ranking": 10
 }]

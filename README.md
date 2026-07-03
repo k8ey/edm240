@@ -2,7 +2,7 @@
 
 A collection of statistics, data, and graphs about EDM 240 (tabled 01/06/2026).
 
-## Statistics 
+## Statistics
 
 Statistics can be found in the [STATS.md](STATS.md) file.
 
