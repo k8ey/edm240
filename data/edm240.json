@@ -1,26 +1,26 @@
 [{
   "supporting": {
-    "total": 161,
+    "total": 164,
     "backbench": {
-      "total": 123
+      "total": 125
     },
     "frontbench": {
-      "total": 38
+      "total": 39
     },
     "women": {
-      "total": 79
+      "total": 81
     },
     "men": {
-      "total": 82
+      "total": 83
     },
     "by_party": {
-      "Labour": 89,
-      "Liberal Democrat": 53,
+      "Labour": 91,
+      "Liberal Democrat": 54,
       "Scottish National Party": 7,
       "Plaid Cymru": 4,
       "Green Party": 3,
-      "Your Party": 2,
       "Independent": 2,
+      "Your Party": 2,
       "Social Democratic & Labour Party": 1
     },
     "by_date": {
@@ -46,7 +46,8 @@
         "2026-06-25": 1,
         "2026-06-29": 2,
         "2026-06-30": 1,
-        "2026-07-02": 2
+        "2026-07-02": 2,
+        "2026-07-06": 3
       }
     },
     "by_membership": {
@@ -64,7 +65,7 @@
         "2019": 18,
         "2021": 2,
         "2023": 2,
-        "2024": 102,
+        "2024": 105,
         "2026": 2
       },
       "latest": {
@@ -81,7 +82,7 @@
         "2019": 18,
         "2021": 2,
         "2023": 2,
-        "2024": 103,
+        "2024": 106,
         "2026": 2
       }
     }
